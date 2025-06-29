@@ -1,0 +1,48 @@
+JVM info: Oracle Corporation - 1.8.0_202 - 25.202-b08
+java.net.preferIPv4Stack=true
+Found java version 1.8.0_202
+Considering minecraft server jar
+Downloading minecraft server version 1.6.4
+  Downloading library from https://launcher.mojang.com/v1/objects/050f93c1f3fe9e2052398f7bd6aca10c63d64a87/server.jar
+    Download completed: Checksum validated.
+Considering library net.minecraftforge:minecraftforge:9.11.1.1345: Not Downloading {Wrong Side}
+Considering library net.minecraft:launchwrapper:1.8
+Downloading library net.minecraft:launchwrapper:1.8
+Trying unpacked library net.minecraft:launchwrapper:1.8
+Considering library org.ow2.asm:asm-all:4.1
+Downloading library org.ow2.asm:asm-all:4.1
+Trying unpacked library org.ow2.asm:asm-all:4.1
+Considering library org.scala-lang:scala-library:2.10.2
+Downloading library org.scala-lang:scala-library:2.10.2
+Trying unpacked library org.scala-lang:scala-library:2.10.2
+Considering library org.scala-lang:scala-compiler:2.10.2
+Downloading library org.scala-lang:scala-compiler:2.10.2
+Trying unpacked library org.scala-lang:scala-compiler:2.10.2
+Considering library lzma:lzma:0.0.1
+Downloading library lzma:lzma:0.0.1
+Trying unpacked library lzma:lzma:0.0.1
+Considering library net.sf.jopt-simple:jopt-simple:4.5
+Downloading library net.sf.jopt-simple:jopt-simple:4.5
+Trying unpacked library net.sf.jopt-simple:jopt-simple:4.5
+Considering library com.paulscode:codecjorbis:20101023: Not Downloading {Wrong Side}
+Considering library com.paulscode:codecwav:20101023: Not Downloading {Wrong Side}
+Considering library com.paulscode:libraryjavasound:20101123: Not Downloading {Wrong Side}
+Considering library com.paulscode:librarylwjglopenal:20100824: Not Downloading {Wrong Side}
+Considering library com.paulscode:soundsystem:20120107: Not Downloading {Wrong Side}
+Considering library argo:argo:2.25_fixed: Not Downloading {Wrong Side}
+Considering library org.bouncycastle:bcprov-jdk15on:1.47: Not Downloading {Wrong Side}
+Considering library com.google.guava:guava:14.0: Not Downloading {Wrong Side}
+Considering library org.apache.commons:commons-lang3:3.1: Not Downloading {Wrong Side}
+Considering library commons-io:commons-io:2.4: Not Downloading {Wrong Side}
+Considering library net.java.jinput:jinput:2.0.5: Not Downloading {Wrong Side}
+Considering library net.java.jutils:jutils:1.0.0: Not Downloading {Wrong Side}
+Considering library com.google.code.gson:gson:2.2.2: Not Downloading {Wrong Side}
+Considering library org.lwjgl.lwjgl:lwjgl:2.9.0: Not Downloading {Wrong Side}
+Considering library org.lwjgl.lwjgl:lwjgl_util:2.9.0: Not Downloading {Wrong Side}
+Considering library org.lwjgl.lwjgl:lwjgl-platform:2.9.0: Not Downloading {Wrong Side}
+Considering library org.lwjgl.lwjgl:lwjgl:2.9.1-nightly-20130708-debug3: Not Downloading {Wrong Side}
+Considering library org.lwjgl.lwjgl:lwjgl_util:2.9.1-nightly-20130708-debug3: Not Downloading {Wrong Side}
+Considering library org.lwjgl.lwjgl:lwjgl-platform:2.9.1-nightly-20130708-debug3: Not Downloading {Wrong Side}
+Considering library net.java.jinput:jinput-platform:2.0.5: Not Downloading {Wrong Side}
+Extracting: /minecraftforge-universal-1.6.4-9.11.1.1345.jar
+To:          G:\_Persona\Sean\Documents\MC_server_git_test\mc_n_frends\versions\1.6.4_mod\minecraftforge-universal-1.6.4-9.11.1.1345.jar

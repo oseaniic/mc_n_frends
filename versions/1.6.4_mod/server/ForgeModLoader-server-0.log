@@ -1,0 +1,1734 @@
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Forge Mod Loader version 6.4.50.1,345 for Minecraft 1.6.4 loading
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_202, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_202
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Java classpath at launch is minecraftforge-universal-1.6.4-9.11.1.1345.jar
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Java library path at launch is C:\Program Files\Java\jre1.8.0_202\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Python310\Scripts\;C:\Program Files\Python310\;C:\Program Files\ImageMagick-7.1.1-Q16-HDRI;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Neovim\bin;C:\Program Files\dotnet\;C:\Program Files\Common Files\Autodesk Shared\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Users\OseanMan\AppData\Local\Microsoft\WindowsApps;C:\Users\OseanMan\AppData\Local\Microsoft\WinGet\Links;C:\Users\OseanMan\AppData\Local\atom\bin;C:\Users\OseanMan\AppData\Local\Programs\Microsoft VS Code\bin;.
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Enabling runtime deobfuscation
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Enqueued coremod FMLCorePlugin
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Enqueued coremod FMLForgePlugin
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Discovering coremods
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Examining for coremod candidacy Backpack-1.28.37-1.6.x.jar
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Not found coremod data in Backpack-1.28.37-1.6.x.jar
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2025-06-29 18:37:58 [INFO] [STDOUT] Loaded 40 rules from AccessTransformer config file fml_at.cfg
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Injection complete
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.Block.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockBaseRailLogic.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockButton.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockCactus.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockChest.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockCocoa.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockComparator.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockCrops.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockDoor.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockFarmland.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockFire.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockFlower.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockFlowing.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockFluid.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockGrass.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockLadder.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockLeaves.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockLever.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockLog.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockMobSpawner.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockMushroom.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockMycelium.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockNetherStalk.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockOre.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockPane.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockPistonBase.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockPortal.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockPumpkin.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockRailBase.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockRedstoneOre.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockRedstoneWire.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockReed.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockSand.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockSapling.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockSkull.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockSnow.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockStem.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockTallGrass.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockTorch.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockTrapDoor.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockTripWireSource.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.block.BlockVine.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.ClientBrandRetriever.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.Minecraft.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.audio.SoundManager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.entity.EntityOtherPlayerMP.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.entity.EntityPlayerSP.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.GuiChat.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.GuiControls.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.GuiCreateWorld.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.GuiIngame.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.GuiMainMenu.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.GuiSlot.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.achievement.GuiAchievements.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.inventory.GuiContainer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.gui.inventory.GuiContainerCreative.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.model.ModelBase.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.model.ModelBox.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.model.ModelRenderer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.model.PositionTextureVertex.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.model.TexturedQuad.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.multiplayer.ChunkProviderClient.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.multiplayer.GuiConnecting.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.multiplayer.NetClientHandler.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.multiplayer.PlayerControllerMP.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.multiplayer.WorldClient.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.particle.EffectRenderer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.particle.EntityDiggingFX.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.particle.EntityFireworkStarterFX.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.EntityRenderer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.ItemRenderer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.OpenGlHelper.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.RenderBlocks.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.RenderGlobal.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.Tessellator.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.WorldRenderer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.entity.RenderBiped.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.entity.RenderItem.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.entity.RenderManager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.entity.RenderPlayer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.entity.RenderSnowMan.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.entity.RenderVillager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.entity.RendererLivingEntity.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.texture.Stitcher.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.texture.TextureAtlasSprite.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.texture.TextureMap.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.renderer.tileentity.TileEntityChestRenderer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.resources.LanguageManager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.client.settings.GameSettings.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.command.CommandHandler.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.crash.CallableSuspiciousClasses.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.crash.CrashReport.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.crash.CrashReportCategory.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.creativetab.CreativeTabs.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.enchantment.Enchantment.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.enchantment.EnchantmentHelper.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.Entity.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.EntityList.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.EntityLiving.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.EntityLivingBase.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.EntityTracker.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.EntityTrackerEntry.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.ai.EntityAIAttackOnCollide.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.boss.EntityDragon.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.boss.EntityWither.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.boss.IBossDisplayData.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.effect.EntityLightningBolt.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.item.EntityEnderPearl.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.item.EntityItem.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.item.EntityMinecart.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.item.EntityMinecartContainer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.item.EntityMinecartEmpty.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.item.EntityMinecartFurnace.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.item.EntityMinecartHopper.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.monster.EntityEnderman.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.monster.EntitySlime.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.monster.EntityZombie.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.passive.EntityMooshroom.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.passive.EntityOcelot.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.passive.EntitySheep.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.passive.EntityVillager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.player.EntityPlayer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.player.EntityPlayerMP.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.entity.player.InventoryPlayer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.ContainerEnchantment.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.ContainerFurnace.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.ContainerRepair.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.Slot.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.SlotArmor.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.SlotBrewingStandIngredient.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.SlotBrewingStandPotion.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.SlotCrafting.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.inventory.SlotFurnace.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.BehaviorDispenseArmor.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.EnumArmorMaterial.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.EnumRarity.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.EnumToolMaterial.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.Item.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemArmor.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemBlock.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemBow.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemBucket.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemBucketMilk.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemDye.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemEmptyMap.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemFlintAndSteel.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemHoe.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemInWorldManager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemMap.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemSeedFood.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemSeeds.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemShears.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemStack.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.ItemTool.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.crafting.CraftingManager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.crafting.FurnaceRecipes.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.item.crafting.RecipeFireworks.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.logging.LogAgent.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.nbt.CompressedStreamTools.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.nbt.NBTTagList.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.MemoryConnection.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.NetLoginHandler.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.NetServerHandler.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.NetworkListenThread.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.TcpConnection.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.packet.NetHandler.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.packet.Packet.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.packet.Packet1Login.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.packet.Packet51MapChunk.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.packet.Packet52MultiBlockChange.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.network.packet.Packet56MapChunks.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.potion.PotionEffect.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.server.MinecraftServer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.server.ServerListenThread.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.server.dedicated.DedicatedServer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.server.gui.StatsComponent.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.server.integrated.IntegratedServer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.server.integrated.IntegratedServerListenThread.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.server.management.PlayerInstance.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.server.management.ServerConfigurationManager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.stats.StatFileWriter.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.stats.StatList.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.tileentity.TileEntity.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.tileentity.TileEntityBeacon.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.tileentity.TileEntityBrewingStand.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.tileentity.TileEntityFurnace.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.tileentity.TileEntityHopper.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.util.CryptManager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.util.MovingObjectPosition.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.util.ResourceLocation.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.util.Session.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.util.StringTranslate.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.util.WeightedRandomChestContent.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.village.VillageCollection.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.ChunkCache.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.Explosion.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.IBlockAccess.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.SpawnerAnimals.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.World.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.WorldProvider.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.WorldServer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.WorldServerMulti.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.WorldType.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.biome.BiomeDecorator.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.biome.BiomeGenBase.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.biome.WorldChunkManager.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.chunk.Chunk.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.chunk.storage.AnvilChunkLoader.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.chunk.storage.AnvilSaveHandler.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.ChunkProviderEnd.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.ChunkProviderGenerate.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.ChunkProviderHell.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.ChunkProviderServer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.MapGenCaves.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.MapGenRavine.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenBigMushroom.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenBigTree.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenDeadBush.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenDungeons.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenForest.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenHugeTrees.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenMinable.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenShrub.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenSwamp.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenTaiga1.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenTaiga2.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenTallGrass.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.feature.WorldGenTrees.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.layer.GenLayer.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.layer.GenLayerBiome.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentMineshaftCorridor.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentScatteredFeatureDesertPyramid.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentScatteredFeatureJunglePyramid.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentStrongholdChestCorridor.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentStrongholdLibrary.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentStrongholdRoomCrossing.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentVillage.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentVillageHouse2.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.ComponentVillageStartPiece.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.MapGenStronghold.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.MapGenStructure.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.StructureComponent.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.StructureStart.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.gen.structure.StructureVillagePieces.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.storage.MapData.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.storage.SaveHandler.binpatch
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Reading patch data from binpatch/server/net.minecraft.world.storage.WorldInfo.binpatch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Read 247 binary patches
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Patch list :
+	aon=[aon : aon => net.minecraft.block.BlockGrass (true) size 3471]	
+aos=[aos : aos => net.minecraft.block.BlockSand (true) size 2351]	
+aoy=[aoy : aoy => net.minecraft.block.BlockLadder (true) size 3071]	
+aoz=[aoz : aoz => net.minecraft.block.BlockLeaves (true) size 7719]	
+qa=[qa : qa => net.minecraft.entity.ai.EntityAIAttackOnCollide (true) size 2784]	
+apb=[apb : apb => net.minecraft.block.BlockLever (true) size 5734]	
+apd=[apd : apd => net.minecraft.block.BlockFlowing (true) size 5090]	
+apc=[apc : apc => net.minecraft.block.BlockFluid (true) size 9565]	
+apj=[apj : apj => net.minecraft.block.BlockMushroom (true) size 2377]	
+api=[api : api => net.minecraft.block.BlockMobSpawner (true) size 1469]	
+apl=[apl : apl => net.minecraft.block.BlockNetherStalk (true) size 3610]	
+apk=[apk : apk => net.minecraft.block.BlockMycelium (true) size 2821]	
+aa=[aa : aa => net.minecraft.command.CommandHandler (true) size 4742]	
+apr=[apr : apr => net.minecraft.block.BlockOre (true) size 1954]	
+aps=[aps : aps => net.minecraft.block.BlockPortal (true) size 5263]	
+apy=[apy : apy => net.minecraft.block.BlockPumpkin (true) size 3730]	
+bbo=[bbo : bbo => net.minecraft.client.model.ModelBase (false) size 1808]	
+aqc=[aqc : aqc => net.minecraft.block.BlockRedstoneOre (true) size 3410]	
+bbs=[bbs : bbs => net.minecraft.client.model.TexturedQuad (false) size 1758]	
+aqb=[aqb : aqb => net.minecraft.block.BlockRedstoneWire (true) size 8715]	
+aqe=[aqe : aqe => net.minecraft.block.BlockReed (true) size 3191]	
+aqi=[aqi : aqi => net.minecraft.block.BlockSapling (true) size 3749]	
+aqk=[aqk : aqk => net.minecraft.block.BlockSkull (true) size 6422]	
+rm=[rm : rm => net.minecraft.village.VillageCollection (true) size 5751]	
+aqq=[aqq : aqq => net.minecraft.block.BlockStem (true) size 6133]	
+aab=[aab : aab => net.minecraft.item.crafting.FurnaceRecipes (true) size 4015]	
+bcf=[bcf : bcf => net.minecraft.client.model.PositionTextureVertex (false) size 923]	
+rw=[rw : rw => net.minecraft.entity.passive.EntityMooshroom (true) size 2488]	
+rx=[rx : rx => net.minecraft.entity.passive.EntityOcelot (true) size 6568]	
+aqv=[aqv : aqv => net.minecraft.block.BlockTallGrass (true) size 3905]	
+aaf=[aaf : aaf => net.minecraft.item.crafting.CraftingManager (true) size 13127]	
+aqy=[aqy : aqy => net.minecraft.block.BlockPane (true) size 4245]	
+rz=[rz : rz => net.minecraft.entity.passive.EntitySheep (true) size 7348]	
+aqz=[aqz : aqz => net.minecraft.block.Block (true) size 48770]	
+bcp=[bcp : bcp => net.minecraft.client.model.ModelBox (false) size 2728]	
+arf=[arf : arf => net.minecraft.block.BlockSnow (true) size 3705]	
+aau=[aau : aau => net.minecraft.enchantment.Enchantment (true) size 3897]	
+sg=[sg : sg => net.minecraft.entity.boss.IBossDisplayData (false) size 182]	
+bv=[bv : bv => net.minecraft.util.StringTranslate (true) size 3070]	
+bcu=[bcu : bcu => net.minecraft.client.model.ModelRenderer (false) size 4948]	
+aaw=[aaw : aaw => net.minecraft.enchantment.EnchantmentHelper (true) size 7690]	
+arg=[arg : arg => net.minecraft.block.BlockTorch (true) size 4626]	
+bcw=[bcw : bcw => net.minecraft.client.multiplayer.NetClientHandler (false) size 38773]	
+arj=[arj : arj => net.minecraft.block.BlockLog (true) size 3030]	
+sk=[sk : sk => net.minecraft.entity.boss.EntityDragon (true) size 12805]	
+ari=[ari : ari => net.minecraft.block.BlockTrapDoor (true) size 4639]	
+bcy=[bcy : bcy => net.minecraft.client.multiplayer.GuiConnecting (false) size 3661]	
+sm=[sm : sm => net.minecraft.entity.boss.EntityWither (true) size 11139]	
+ark=[ark : ark => net.minecraft.block.BlockTripWireSource (true) size 6817]	
+arm=[arm : arm => net.minecraft.block.BlockVine (true) size 6542]	
+sp=[sp : sp => net.minecraft.entity.effect.EntityLightningBolt (true) size 3177]	
+bdc=[bdc : bdc => net.minecraft.client.multiplayer.PlayerControllerMP (false) size 9008]	
+ss=[ss : ss => net.minecraft.entity.item.EntityItem (true) size 8020]	
+bdb=[bdb : bdb => net.minecraft.client.multiplayer.ChunkProviderClient (false) size 3158]	
+st=[st : st => net.minecraft.entity.item.EntityMinecart (true) size 20506]	
+b=[b : b => net.minecraft.crash.CrashReport (true) size 6428]	
+bdd=[bdd : bdd => net.minecraft.client.multiplayer.WorldClient (false) size 9625]	
+sv=[sv : sv => net.minecraft.entity.item.EntityMinecartContainer (true) size 5210]	
+sw=[sw : sw => net.minecraft.entity.item.EntityMinecartFurnace (true) size 4071]	
+cg=[cg : cg => net.minecraft.nbt.NBTTagList (true) size 2959]	
+sx=[sx : sx => net.minecraft.entity.item.EntityMinecartHopper (true) size 3390]	
+sy=[sy : sy => net.minecraft.entity.item.EntityMinecartEmpty (true) size 1152]	
+ci=[ci : ci => net.minecraft.nbt.CompressedStreamTools (true) size 3478]	
+arx=[arx : arx => net.minecraft.tileentity.TileEntityBrewingStand (true) size 6074]	
+arw=[arw : arw => net.minecraft.tileentity.TileEntityBeacon (true) size 6111]	
+j=[j : j => net.minecraft.crash.CallableSuspiciousClasses (true) size 3261]	
+cn=[cn : cn => net.minecraft.network.MemoryConnection (true) size 3236]	
+co=[co : co => net.minecraft.network.TcpConnection (true) size 8319]	
+m=[m : m => net.minecraft.crash.CrashReportCategory (true) size 4750]	
+abr=[abr : abr => net.minecraft.world.Explosion (true) size 5891]	
+tg=[tg : tg => net.minecraft.entity.monster.EntityEnderman (true) size 9412]	
+asg=[asg : asg => net.minecraft.tileentity.TileEntityFurnace (true) size 6408]	
+bdy=[bdy : bdy => net.minecraft.client.particle.EntityFireworkStarterFX (false) size 7125]	
+asi=[asi : asi => net.minecraft.tileentity.TileEntityHopper (true) size 8525]	
+abw=[abw : abw => net.minecraft.world.World (true) size 63153]	
+ts=[ts : ts => net.minecraft.entity.monster.EntitySlime (true) size 5904]	
+asp=[asp : asp => net.minecraft.tileentity.TileEntity (true) size 6911]	
+ast=[ast : ast => net.minecraft.block.BlockPistonBase (true) size 9462]	
+tw=[tw : tw => net.minecraft.entity.monster.EntityZombie (true) size 11945]	
+beh=[beh : beh => net.minecraft.client.particle.EffectRenderer (false) size 5867]	
+acg=[acg : acg => net.minecraft.world.WorldType (true) size 5543]	
+acf=[acf : acf => net.minecraft.world.IBlockAccess (true) size 752]	
+aci=[aci : aci => net.minecraft.world.SpawnerAnimals (true) size 7002]	
+dn=[dn : dn => net.minecraft.network.packet.Packet52MultiBlockChange (true) size 2759]	
+acl=[acl : acl => net.minecraft.world.ChunkCache (true) size 6615]	
+ub=[ub : ub => net.minecraft.entity.passive.EntityVillager (true) size 16745]	
+acq=[acq : acq => net.minecraft.world.biome.BiomeGenBase (true) size 8746]	
+ud=[ud : ud => net.minecraft.entity.player.InventoryPlayer (true) size 9352]	
+ata=[ata : ata => net.minecraft.util.MovingObjectPosition (true) size 1081]	
+bes=[bes : bes => net.minecraft.client.particle.EntityDiggingFX (false) size 3027]	
+uf=[uf : uf => net.minecraft.entity.player.EntityPlayer (true) size 37458]	
+acu=[acu : acu => net.minecraft.world.biome.BiomeDecorator (true) size 9242]	
+bex=[bex : bex => net.minecraft.client.entity.EntityPlayerSP (false) size 12314]	
+acv=[acv : acv => net.minecraft.world.biome.WorldChunkManager (true) size 5312]	
+bey=[bey : bey => net.minecraft.client.entity.EntityOtherPlayerMP (false) size 3764]	
+bfa=[bfa : bfa => net.minecraft.client.renderer.WorldRenderer (false) size 5346]	
+us=[us : us => net.minecraft.entity.item.EntityEnderPearl (true) size 2222]	
+bfe=[bfe : bfe => net.minecraft.client.renderer.EntityRenderer (false) size 29195]	
+atv=[atv : atv => net.minecraft.client.Minecraft (false) size 41736]	
+ej=[ej : ej => net.minecraft.network.packet.Packet51MapChunk (true) size 4556]	
+bfj=[bfj : bfj => net.minecraft.client.renderer.ItemRenderer (false) size 14333]	
+el=[el : el => net.minecraft.network.packet.Packet56MapChunks (true) size 4541]	
+bfl=[bfl : bfl => net.minecraft.client.renderer.RenderGlobal (false) size 42546]	
+va=[va : va => net.minecraft.inventory.ContainerRepair (true) size 7574]	
+ep=[ep : ep => net.minecraft.network.packet.Packet1Login (true) size 2313]	
+bfq=[bfq : bfq => net.minecraft.client.renderer.Tessellator (false) size 7865]	
+adr=[adr : adr => net.minecraft.world.chunk.Chunk (true) size 21606]	
+bfr=[bfr : bfr => net.minecraft.client.renderer.RenderBlocks (false) size 127889]	
+vg=[vg : vg => net.minecraft.inventory.SlotBrewingStandIngredient (true) size 739]	
+vh=[vh : vh => net.minecraft.inventory.SlotBrewingStandPotion (true) size 1088]	
+ey=[ey : ey => net.minecraft.network.packet.Packet (true) size 7765]	
+ez=[ez : ez => net.minecraft.network.packet.NetHandler (true) size 9724]	
+vm=[vm : vm => net.minecraft.inventory.ContainerEnchantment (true) size 4995]	
+aul=[aul : aul => net.minecraft.client.settings.GameSettings (false) size 17130]	
+vp=[vp : vp => net.minecraft.inventory.ContainerFurnace (true) size 2743]	
+net.minecraft.client.ClientBrandRetriever=[net/minecraft/client/ClientBrandRetriever : net.minecraft.client.ClientBrandRetriever => net.minecraft.client.ClientBrandRetriever (false) size 694]	
+vq=[vq : vq => net.minecraft.inventory.SlotFurnace (true) size 2057]	
+aus=[aus : aus => net.minecraft.util.Session (false) size 1419]	
+aee=[aee : aee => net.minecraft.world.chunk.storage.AnvilChunkLoader (true) size 10370]	
+vw=[vw : vw => net.minecraft.inventory.SlotArmor (true) size 1097]	
+auw=[auw : auw => net.minecraft.client.gui.GuiChat (false) size 6893]	
+auy=[auy : auy => net.minecraft.client.gui.GuiControls (false) size 2085]	
+aei=[aei : aei => net.minecraft.world.WorldProvider (true) size 9602]	
+bgl=[bgl : bgl => net.minecraft.client.renderer.entity.RenderManager (false) size 9834]	
+aem=[aem : aem => net.minecraft.world.gen.MapGenRavine (true) size 5323]	
+avb=[avb : avb => net.minecraft.client.gui.GuiCreateWorld (false) size 9641]	
+aeq=[aeq : aeq => net.minecraft.world.gen.MapGenCaves (true) size 5736]	
+wd=[wd : wd => net.minecraft.inventory.SlotCrafting (true) size 3028]	
+aep=[aep : aep => net.minecraft.world.gen.ChunkProviderHell (true) size 12943]	
+we=[we : we => net.minecraft.inventory.Slot (true) size 2806]	
+aeu=[aeu : aeu => net.minecraft.world.gen.ChunkProviderEnd (true) size 8482]	
+bgu=[bgu : bgu => net.minecraft.client.renderer.entity.RenderBiped (false) size 9700]	
+wh=[wh : wh => net.minecraft.item.ItemArmor (true) size 4126]	
+aet=[aet : aet => net.minecraft.world.gen.ChunkProviderGenerate (true) size 13463]	
+wi=[wi : wi => net.minecraft.item.BehaviorDispenseArmor (true) size 1467]	
+aew=[aew : aew => net.minecraft.world.gen.feature.WorldGenBigTree (true) size 7442]	
+bgw=[bgw : bgw => net.minecraft.client.renderer.entity.RenderItem (false) size 12014]	
+wj=[wj : wj => net.minecraft.item.EnumArmorMaterial (true) size 1903]	
+avj=[avj : avj => net.minecraft.client.gui.GuiIngame (false) size 20706]	
+aex=[aex : aex => net.minecraft.world.gen.feature.WorldGenForest (true) size 2586]	
+wp=[wp : wp => net.minecraft.item.ItemBow (true) size 3997]	
+wr=[wr : wr => net.minecraft.item.ItemBucket (true) size 3600]	
+bhb=[bhb : bhb => net.minecraft.client.renderer.entity.RendererLivingEntity (false) size 11928]	
+afc=[afc : afc => net.minecraft.world.gen.feature.WorldGenDeadBush (true) size 1040]	
+ww=[ww : ww => net.minecraft.creativetab.CreativeTabs (true) size 5700]	
+afg=[afg : afg => net.minecraft.world.gen.feature.WorldGenShrub (true) size 1493]	
+bhj=[bhj : bhj => net.minecraft.client.renderer.entity.RenderPlayer (false) size 13772]	
+afl=[afl : afl => net.minecraft.world.gen.feature.WorldGenBigMushroom (true) size 2806]	
+bho=[bho : bho => net.minecraft.client.renderer.entity.RenderSnowMan (false) size 2816]	
+afp=[afp : afp => net.minecraft.world.gen.feature.WorldGenDungeons (true) size 3585]	
+afo=[afo : afo => net.minecraft.world.gen.feature.WorldGenHugeTrees (true) size 4707]	
+afr=[afr : afr => net.minecraft.world.gen.feature.WorldGenTaiga1 (true) size 2467]	
+afq=[afq : afq => net.minecraft.world.gen.feature.WorldGenMinable (true) size 2544]	
+bhu=[bhu : bhu => net.minecraft.client.renderer.entity.RenderVillager (false) size 3112]	
+awg=[awg : awg => net.minecraft.client.gui.GuiSlot (false) size 7228]	
+xj=[xj : xj => net.minecraft.item.ItemTool (true) size 2598]	
+afx=[afx : afx => net.minecraft.world.gen.feature.WorldGenTaiga2 (true) size 2649]	
+xl=[xl : xl => net.minecraft.item.ItemDye (true) size 7308]	
+afz=[afz : afz => net.minecraft.world.gen.feature.WorldGenTallGrass (true) size 1109]	
+afy=[afy : afy => net.minecraft.world.gen.feature.WorldGenSwamp (true) size 3186]	
+xn=[xn : xn => net.minecraft.item.ItemEmptyMap (true) size 1467]	
+awq=[awq : awq => net.minecraft.client.gui.achievement.GuiAchievements (false) size 10341]	
+aga=[aga : aga => net.minecraft.world.gen.feature.WorldGenTrees (true) size 4297]	
+xw=[xw : xw => net.minecraft.item.ItemFlintAndSteel (true) size 1193]	
+big=[big : big => net.minecraft.client.renderer.texture.Stitcher (false) size 4856]	
+awy=[awy : awy => net.minecraft.client.gui.inventory.GuiContainer (false) size 14220]	
+agi=[agi : agi => net.minecraft.world.gen.structure.ComponentMineshaftCorridor (true) size 6198]	
+bil=[bil : bil => net.minecraft.client.renderer.texture.TextureAtlasSprite (false) size 6732]	
+bik=[bik : bik => net.minecraft.client.renderer.texture.TextureMap (false) size 7125]	
+hn=[hn : hn => net.minecraft.server.management.ServerConfigurationManager (true) size 19703]	
+yb=[yb : yb => net.minecraft.item.ItemHoe (true) size 2424]	
+yc=[yc : yc => net.minecraft.item.Item (true) size 30913]	
+yd=[yd : yd => net.minecraft.item.EnumToolMaterial (true) size 2100]	
+ye=[ye : ye => net.minecraft.item.ItemStack (true) size 15004]	
+biv=[biv : biv => net.minecraft.client.renderer.tileentity.TileEntityChestRenderer (false) size 3664]	
+yh=[yh : yh => net.minecraft.item.ItemMap (true) size 6122]	
+yi=[yi : yi => net.minecraft.item.ItemBucketMilk (true) size 1145]	
+net.minecraft.server.MinecraftServer=[net/minecraft/server/MinecraftServer : net.minecraft.server.MinecraftServer => net.minecraft.server.MinecraftServer (true) size 25426]	
+axm=[axm : axm => net.minecraft.client.gui.inventory.GuiContainerCreative (false) size 15977]	
+yq=[yq : yq => net.minecraft.item.EnumRarity (false) size 1204]	
+yv=[yv : yv => net.minecraft.item.ItemSeedFood (true) size 1895]	
+yw=[yw : yw => net.minecraft.item.ItemSeeds (true) size 2008]	
+yx=[yx : yx => net.minecraft.item.ItemShears (true) size 3596]	
+ahl=[ahl : ahl => net.minecraft.world.gen.structure.ComponentScatteredFeatureDesertPyramid (true) size 6695]	
+bjo=[bjo : bjo => net.minecraft.util.ResourceLocation (false) size 1758]	
+ahm=[ahm : ahm => net.minecraft.world.gen.structure.ComponentScatteredFeatureJunglePyramid (true) size 6124]	
+is=[is : is => net.minecraft.server.dedicated.DedicatedServer (true) size 10207]	
+ahq=[ahq : ahq => net.minecraft.world.gen.structure.MapGenStronghold (true) size 4003]	
+zh=[zh : zh => net.minecraft.item.ItemBlock (true) size 3994]	
+iy=[iy : iy => net.minecraft.server.ServerListenThread (true) size 3680]	
+ahw=[ahw : ahw => net.minecraft.world.gen.structure.ComponentStrongholdChestCorridor (true) size 3351]	
+aia=[aia : aia => net.minecraft.world.gen.structure.ComponentStrongholdLibrary (true) size 4382]	
+bkd=[bkd : bkd => net.minecraft.client.resources.LanguageManager (false) size 3876]	
+je=[je : je => net.minecraft.server.gui.StatsComponent (true) size 4045]	
+aif=[aif : aif => net.minecraft.world.gen.structure.ComponentStrongholdRoomCrossing (true) size 4150]	
+zz=[zz : zz => net.minecraft.item.crafting.RecipeFireworks (true) size 3773]	
+jl=[jl : jl => net.minecraft.world.WorldServerMulti (true) size 913]	
+jm=[jm : jm => net.minecraft.entity.EntityTracker (true) size 5493]	
+jq=[jq : jq => net.minecraft.server.management.PlayerInstance (true) size 4525]	
+ain=[ain : ain => net.minecraft.world.gen.structure.MapGenStructure (true) size 5700]	
+jr=[jr : jr => net.minecraft.world.gen.ChunkProviderServer (true) size 6996]	
+js=[js : js => net.minecraft.world.WorldServer (true) size 20002]	
+jv=[jv : jv => net.minecraft.entity.player.EntityPlayerMP (true) size 20120]	
+jw=[jw : jw => net.minecraft.item.ItemInWorldManager (true) size 8353]	
+ait=[ait : ait => net.minecraft.world.gen.structure.StructureComponent (true) size 11241]	
+jx=[jx : jx => net.minecraft.entity.EntityTrackerEntry (true) size 11005]	
+jy=[jy : jy => net.minecraft.network.NetLoginHandler (true) size 6525]	
+aiv=[aiv : aiv => net.minecraft.world.gen.structure.StructureStart (true) size 4075]	
+bkz=[bkz : bkz => net.minecraft.server.integrated.IntegratedServer (false) size 7494]	
+aiy=[aiy : aiy => net.minecraft.world.gen.structure.StructureVillagePieces (true) size 5470]	
+ka=[ka : ka => net.minecraft.network.NetServerHandler (true) size 23196]	
+blc=[blc : blc => net.minecraft.server.integrated.IntegratedServerListenThread (false) size 2478]	
+kd=[kd : kd => net.minecraft.network.NetworkListenThread (true) size 2427]	
+ajj=[ajj : ajj => net.minecraft.world.gen.structure.ComponentVillageStartPiece (true) size 1193]	
+aji=[aji : aji => net.minecraft.world.gen.structure.ComponentVillageHouse2 (true) size 4409]	
+bln=[bln : bln => net.minecraft.client.audio.SoundManager (false) size 12620]	
+ajm=[ajm : ajm => net.minecraft.world.gen.structure.ComponentVillage (true) size 5767]	
+blt=[blt : blt => net.minecraft.client.gui.GuiMainMenu (false) size 14859]	
+blv=[blv : blv => net.minecraft.stats.StatFileWriter (false) size 7174]	
+la=[la : la => net.minecraft.stats.StatList (true) size 6252]	
+bma=[bma : bma => net.minecraft.client.renderer.OpenGlHelper (false) size 1596]	
+lc=[lc : lc => net.minecraft.logging.LogAgent (true) size 2719]	
+lg=[lg : lg => net.minecraft.util.CryptManager (true) size 5160]	
+akj=[akj : akj => net.minecraft.world.gen.layer.GenLayerBiome (true) size 1122]	
+akq=[akq : akq => net.minecraft.world.gen.layer.GenLayer (true) size 3731]	
+mk=[mk : mk => net.minecraft.util.WeightedRandomChestContent (true) size 2389]	
+ali=[ali : ali => net.minecraft.world.storage.MapData (true) size 5560]	
+alm=[alm : alm => net.minecraft.world.chunk.storage.AnvilSaveHandler (true) size 1234]	
+alq=[alq : alq => net.minecraft.world.storage.SaveHandler (true) size 5737]	
+als=[als : als => net.minecraft.world.storage.WorldInfo (true) size 9344]	
+nj=[nj : nj => net.minecraft.potion.PotionEffect (true) size 5122]	
+nn=[nn : nn => net.minecraft.entity.Entity (true) size 36908]	
+nt=[nt : nt => net.minecraft.entity.EntityList (true) size 6113]	
+amy=[amy : amy => net.minecraft.block.BlockRailBase (true) size 4263]	
+amz=[amz : amz => net.minecraft.block.BlockBaseRailLogic (true) size 5680]	
+of=[of : of => net.minecraft.entity.EntityLivingBase (true) size 32443]	
+anf=[anf : anf => net.minecraft.block.BlockButton (true) size 6984]	
+og=[og : og => net.minecraft.entity.EntityLiving (true) size 19031]	
+ane=[ane : ane => net.minecraft.block.BlockFlower (true) size 3559]	
+ang=[ang : ang => net.minecraft.block.BlockCactus (true) size 4079]	
+ank=[ank : ank => net.minecraft.block.BlockChest (true) size 9099]	
+anm=[anm : anm => net.minecraft.block.BlockCocoa (true) size 5336]	
+anp=[anp : anp => net.minecraft.block.BlockComparator (true) size 6127]	
+anr=[anr : anr => net.minecraft.block.BlockCrops (true) size 4882]	
+anz=[anz : anz => net.minecraft.block.BlockDoor (true) size 6791]	
+aof=[aof : aof => net.minecraft.block.BlockFarmland (true) size 3926]	
+aoi=[aoi : aoi => net.minecraft.block.BlockFire (true) size 9418]
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aa (input size 3939), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aa (new size 5482)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aab (input size 2402), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aab (new size 4143)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aaf (input size 12619), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aaf (new size 13568)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aau (input size 3121), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aau (new size 4238)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aaw (input size 6149), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aaw (new size 8100)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class abr (input size 5179), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for abr (new size 6217)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class abw (input size 41161), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for abw (new size 65948)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class acg (input size 1466), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for acg (new size 5736)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aci (input size 5307), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aci (new size 7609)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class acl (input size 1872), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for acl (new size 6698)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class acq (input size 5752), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for acq (new size 8976)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class acu (input size 5564), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for acu (new size 9450)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class acv (input size 3334), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for acv (new size 5661)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class adr (input size 14285), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for adr (new size 22474)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aee (input size 8059), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aee (new size 11187)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aei (input size 2328), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aei (new size 9679)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aem (input size 3290), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aem (new size 5438)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aep (input size 8054), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aep (new size 13481)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aet (input size 8910), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aet (new size 13864)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aeu (input size 5462), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aeu (new size 8907)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aew (input size 5987), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aew (new size 8127)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class afc (input size 745), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for afc (new size 1069)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class afg (input size 990), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for afg (new size 1543)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class afl (input size 1924), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for afl (new size 2847)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class afo (input size 2993), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for afo (new size 4778)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class afp (input size 3392), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for afp (new size 3981)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class afq (input size 1534), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for afq (new size 2563)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class afz (input size 782), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for afz (new size 1124)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aga (input size 2816), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aga (new size 4373)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class agi (input size 5425), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for agi (new size 6676)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ahl (input size 6228), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ahl (new size 6896)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ahm (input size 5886), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ahm (new size 6501)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ahq (input size 3334), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ahq (new size 4358)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ahw (input size 3017), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ahw (new size 3717)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aia (input size 4054), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aia (new size 4765)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aif (input size 3882), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aif (new size 4536)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ain (input size 4861), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ain (new size 6289)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ait (input size 9150), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ait (new size 12326)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aiv (input size 3127), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aiv (new size 4464)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aji (input size 3806), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aji (new size 4648)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ajj (input size 870), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ajj (new size 1271)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ajm (input size 3385), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ajm (new size 5961)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class akj (input size 1054), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for akj (new size 1205)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class akq (input size 2163), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for akq (new size 3742)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ali (input size 4285), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ali (new size 6010)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class alq (input size 4811), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for alq (new size 6395)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class als (input size 6986), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for als (new size 9831)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class amy (input size 2404), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for amy (new size 4363)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class amz (input size 5119), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for amz (new size 6158)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class anf (input size 4927), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for anf (new size 7195)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ang (input size 1726), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ang (new size 4171)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ank (input size 6965), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ank (new size 9237)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class anm (input size 2518), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for anm (new size 5439)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class anr (input size 2499), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for anr (new size 4989)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class anz (input size 3708), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for anz (new size 7081)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aof (input size 2166), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aof (new size 4018)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aoi (input size 4755), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aoi (new size 9610)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aon (input size 980), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aon (new size 3500)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aos (input size 1643), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aos (new size 2370)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aoz (input size 4080), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aoz (new size 8191)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class apc (input size 3752), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for apc (new size 9810)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class apd (input size 4256), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for apd (new size 5156)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class apk (input size 940), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for apk (new size 2864)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class apl (input size 1361), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for apl (new size 3680)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class apy (input size 2224), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for apy (new size 3783)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aqb (input size 5257), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aqb (new size 8844)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aqc (input size 2234), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aqc (new size 3650)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aqi (input size 2194), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aqi (new size 3914)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aqq (input size 2925), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aqq (new size 6288)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aqv (input size 1288), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aqv (new size 3946)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aqy (input size 2263), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aqy (new size 4351)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aqz (input size 28719), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aqz (new size 50101)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class arj (input size 1184), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for arj (new size 3135)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class arw (input size 4505), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for arw (new size 6306)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class arx (input size 4808), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for arx (new size 6439)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class asg (input size 5214), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for asg (new size 6635)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class asi (input size 6979), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for asi (new size 8906)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class asp (input size 4426), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for asp (new size 7518)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ast (input size 6492), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ast (new size 9704)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ata (input size 777), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ata (new size 1109)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class atv (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for atv (new size 41724)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aul (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aul (new size 17121)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class aus (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for aus (new size 1410)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class auw (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for auw (new size 6884)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class auy (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for auy (new size 2076)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class avb (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for avb (new size 9632)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class avj (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for avj (new size 20697)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class awg (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for awg (new size 7219)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class awq (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for awq (new size 10332)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class awy (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for awy (new size 14211)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class axm (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for axm (new size 15968)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class b (input size 6336), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for b (new size 7918)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bbo (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bbo (new size 1799)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bbs (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bbs (new size 1749)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bcf (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bcf (new size 914)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bcp (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bcp (new size 2719)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bcu (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bcu (new size 4939)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bcw (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bcw (new size 38761)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bcy (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bcy (new size 3652)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bdb (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bdb (new size 3149)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bdc (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bdc (new size 8999)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bdd (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bdd (new size 9616)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bdy (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bdy (new size 7116)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class beh (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for beh (new size 5858)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bes (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bes (new size 3018)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bex (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bex (new size 12305)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bey (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bey (new size 3755)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bfa (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bfa (new size 5337)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bfe (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bfe (new size 29186)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bfj (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bfj (new size 14324)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bfl (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bfl (new size 42534)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bfq (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bfq (new size 7856)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bfr (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bfr (new size 127871)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bgl (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bgl (new size 9825)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bgu (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bgu (new size 9691)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bgw (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bgw (new size 12005)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bhb (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bhb (new size 11919)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bhj (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bhj (new size 13763)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bho (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bho (new size 2807)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bhu (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bhu (new size 3103)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class big (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for big (new size 4847)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bik (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bik (new size 7116)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bil (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bil (new size 6723)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class biv (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for biv (new size 3655)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bjo (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bjo (new size 1749)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bkd (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bkd (new size 3867)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bkz (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bkz (new size 7485)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class blc (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for blc (new size 2469)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bln (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bln (new size 12611)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class blt (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for blt (new size 14850)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class blv (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for blv (new size 7165)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bma (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bma (new size 1587)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class bv (input size 2953), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for bv (new size 3941)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class cg (input size 2387), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for cg (new size 3235)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class cn (input size 1907), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for cn (new size 3551)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class co (input size 7538), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for co (new size 9587)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class dn (input size 2341), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for dn (new size 3047)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ej (input size 3592), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ej (new size 4927)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class el (input size 3184), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for el (new size 4773)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ep (input size 1643), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ep (new size 2505)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ey (input size 7307), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ey (new size 8741)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class hn (input size 16339), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for hn (new size 21139)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class is (input size 9596), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for is (new size 11773)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class iy (input size 3120), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for iy (new size 4327)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class j (input size 3241), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for j (new size 3877)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class je (input size 3529), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for je (new size 4594)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class jm (input size 4614), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for jm (new size 5995)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class jq (input size 3641), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for jq (new size 4748)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class jr (input size 5049), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for jr (new size 7487)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class js (input size 14788), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for js (new size 20910)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class jv (input size 16266), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for jv (new size 21056)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class jw (input size 4441), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for jw (new size 8382)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class jx (input size 9464), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for jx (new size 11376)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class jy (input size 5611), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for jy (new size 7578)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ka (input size 19447), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ka (new size 24602)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class kd (input size 2100), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for kd (new size 2964)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class la (input size 5653), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for la (new size 6557)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class lc (input size 2403), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for lc (new size 3405)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class m (input size 3954), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for m (new size 5656)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class mk (input size 1496), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for mk (new size 2532)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class nj (input size 2949), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for nj (new size 5363)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class nn (input size 25323), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for nn (new size 38606)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class nt (input size 5436), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for nt (new size 6703)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class of (input size 25356), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for of (new size 33399)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class og (input size 15924), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for og (new size 19692)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class qa (input size 2127), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for qa (new size 2854)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class rm (input size 4626), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for rm (new size 6014)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class rx (input size 5673), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for rx (new size 6765)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class rz (input size 5400), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for rz (new size 7520)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class sk (input size 10934), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for sk (new size 13165)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class sm (input size 8780), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for sm (new size 11364)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class sp (input size 2246), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for sp (new size 3264)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ss (input size 5611), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ss (new size 8314)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class st (input size 13682), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for st (new size 21348)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class sv (input size 3861), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for sv (new size 5287)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class sw (input size 3102), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for sw (new size 4143)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class sx (input size 2385), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for sx (new size 3481)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class tg (input size 7849), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for tg (new size 9720)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ts (input size 5154), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ts (new size 6088)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class tw (input size 9443), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for tw (new size 12430)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ub (input size 14277), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ub (new size 17376)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ud (input size 6842), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ud (new size 9890)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class uf (input size 24208), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for uf (new size 38309)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class va (input size 6521), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for va (new size 7890)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class vg (input size 450), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for vg (new size 743)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class vh (input size 739), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for vh (new size 1093)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class vm (input size 4161), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for vm (new size 5110)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class vp (input size 2191), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for vp (new size 2795)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class vq (input size 1548), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for vq (new size 2083)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class vw (input size 640), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for vw (new size 1088)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class wd (input size 2022), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for wd (new size 3019)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class we (input size 1361), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for we (new size 2806)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class wh (input size 2781), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for wh (new size 4454)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class wj (input size 1536), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for wj (new size 2073)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class wp (input size 2077), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for wp (new size 4035)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class wr (input size 2578), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for wr (new size 3684)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ww (input size 1879), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ww (new size 5751)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class xj (input size 1612), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for xj (new size 2748)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class xl (input size 4249), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for xl (new size 7521)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class yb (input size 1161), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for yb (new size 2467)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class yc (input size 21098), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for yc (new size 32042)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class yd (input size 1646), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for yd (new size 2216)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class ye (input size 8938), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for ye (new size 15901)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class yq (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for yq (new size 1195)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class yv (input size 625), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for yv (new size 1911)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class yw (input size 679), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for yw (new size 2023)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class zh (input size 1655), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for zh (new size 4088)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class zz (input size 3419), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for zz (new size 3972)
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class net.minecraft.client.ClientBrandRetriever (input size 0), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for net.minecraft.client.ClientBrandRetriever (new size 685)
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Coremod plugin class FMLCorePlugin run successfully
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2025-06-29 18:37:58 [INFO] [STDOUT] Loaded 110 rules from AccessTransformer config file forge_at.cfg
+2025-06-29 18:37:58 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Injection complete
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Coremod plugin class FMLForgePlugin run successfully
+2025-06-29 18:37:58 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Validating minecraft
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Minecraft validated, launching...
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Runtime patching class net.minecraft.server.MinecraftServer (input size 20475), found 1 patch
+2025-06-29 18:37:58 [FINE] [ForgeModLoader] Successfully applied runtime patches for net.minecraft.server.MinecraftServer (new size 27501)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/IBlockAccess (input size 224), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/IBlockAccess (new size 743)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/WorldServerMulti (input size 573), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/WorldServerMulti (new size 1076)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/network/packet/NetHandler (input size 4778), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/network/packet/NetHandler (new size 9784)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/nbt/CompressedStreamTools (input size 1689), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/nbt/CompressedStreamTools (new size 3869)
+2025-06-29 18:37:59 [INFO] [ForgeModLoader] Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockFlower (input size 1521), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockFlower (new size 3588)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockOre (input size 1563), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockOre (new size 2039)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockMushroom (input size 1825), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockMushroom (new size 2645)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockTorch (input size 2798), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockTorch (new size 4781)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockMobSpawner (input size 732), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockMobSpawner (new size 1487)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockLadder (input size 1677), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockLadder (new size 3071)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockLever (input size 4434), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockLever (new size 5947)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockSnow (input size 2225), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockSnow (new size 3787)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockReed (input size 1736), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockReed (new size 3227)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockPortal (input size 2847), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockPortal (new size 5427)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockTrapDoor (input size 2767), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockTrapDoor (new size 4791)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockVine (input size 4868), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockVine (new size 6985)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockTripWireSource (input size 5544), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockTripWireSource (new size 7305)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockSkull (input size 4373), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockSkull (new size 6663)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/block/BlockComparator (input size 3837), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/block/BlockComparator (new size 6288)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/gen/feature/WorldGenTaiga2 (input size 1629), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/gen/feature/WorldGenTaiga2 (new size 2668)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/gen/feature/WorldGenForest (input size 1421), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/gen/feature/WorldGenForest (new size 2612)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/item/ItemShears (input size 1037), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/item/ItemShears (new size 3599)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/item/ItemFlintAndSteel (input size 952), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/item/ItemFlintAndSteel (new size 1283)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/item/ItemBucketMilk (input size 828), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/item/ItemBucketMilk (new size 1153)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/item/ItemMap (input size 5122), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/item/ItemMap (new size 6631)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/item/ItemEmptyMap (input size 1301), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/item/ItemEmptyMap (new size 1643)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/entity/boss/IBossDisplayData (input size 0), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/entity/boss/IBossDisplayData (new size 175)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/item/BehaviorDispenseArmor (input size 1099), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/item/BehaviorDispenseArmor (new size 1521)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/entity/item/EntityMinecartEmpty (input size 551), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/entity/item/EntityMinecartEmpty (new size 1143)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/entity/item/EntityEnderPearl (input size 1168), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/entity/item/EntityEnderPearl (new size 2245)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/util/CryptManager (input size 4572), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/util/CryptManager (new size 7176)
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/chunk/storage/AnvilSaveHandler (input size 967), found 1 patch
+2025-06-29 18:37:59 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/chunk/storage/AnvilSaveHandler (new size 1359)
+2025-06-29 18:38:00 [INFO] [Minecraft-Server] Starting minecraft server version 1.6.4
+2025-06-29 18:38:00 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2025-06-29 18:38:00 [INFO] [STDOUT] MinecraftForge v9.11.1.1345 Initialized
+2025-06-29 18:38:00 [INFO] [ForgeModLoader] MinecraftForge v9.11.1.1345 Initialized
+2025-06-29 18:38:00 [INFO] [STDOUT] Replaced 111 ore recipies
+2025-06-29 18:38:00 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2025-06-29 18:38:00 [INFO] [ForgeModLoader] Reading custom logging properties from G:\_Persona\Sean\Documents\MC_server_git_test\mc_n_frends\versions\1.6.4_mod\server\config\logging.properties
+2025-06-29 18:38:00 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Minecraft is a file at G:\_Persona\Sean\Documents\MC_server_git_test\mc_n_frends\versions\1.6.4_mod\server\minecraftforge-universal-1.6.4-9.11.1.1345.jar, loading
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2025-06-29 18:38:00 [INFO] [ForgeModLoader] Searching G:\_Persona\Sean\Documents\MC_server_git_test\mc_n_frends\versions\1.6.4_mod\server\mods for mods
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Found a candidate zip or jar file Backpack-1.28.37-1.6.x.jar
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Found a candidate zip or jar file BiblioCraft[v1.5.5].zip
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Found a candidate zip or jar file DecoCraft1.6.4 V1.9b.zip
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Found a candidate zip or jar file The Lion King Mod v1.13.zip
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Examining file minecraftforge-universal-1.6.4-9.11.1.1345.jar for potential mods
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] The mod container minecraftforge-universal-1.6.4-9.11.1.1345.jar appears to be missing an mcmod.info file
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Examining file Backpack-1.28.37-1.6.x.jar for potential mods
+2025-06-29 18:38:00 [FINER] [ForgeModLoader] Located mcmod.info file in file Backpack-1.28.37-1.6.x.jar
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Identified an FMLMod type mod backpack.Backpack
+2025-06-29 18:38:00 [FINEST] [Backpack] Parsed dependency info : [] [] []
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Examining file BiblioCraft[v1.5.5].zip for potential mods
+2025-06-29 18:38:00 [FINER] [ForgeModLoader] Located mcmod.info file in file BiblioCraft[v1.5.5].zip
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Identified an FMLMod type mod jds.bibliocraft.BiblioCraft
+2025-06-29 18:38:00 [FINEST] [BiblioCraft] Parsed dependency info : [] [] []
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Examining file DecoCraft1.6.4 V1.9b.zip for potential mods
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] The mod container DecoCraft1.6.4 V1.9b.zip appears to be missing an mcmod.info file
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.mia.props.Props
+2025-06-29 18:38:00 [FINEST] [props] Parsed dependency info : [] [] []
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Examining file The Lion King Mod v1.13.zip for potential mods
+2025-06-29 18:38:00 [FINER] [ForgeModLoader] Located mcmod.info file in file The Lion King Mod v1.13.zip
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Identified a class lionking.common.mod_LionKing following modloader naming convention but not directly a BaseMod or currently seen subclass
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Identified an FMLMod type mod lionking.common.mod_LionKing
+2025-06-29 18:38:00 [FINEST] [lionking] Parsed dependency info : [] [] []
+2025-06-29 18:38:00 [INFO] [ForgeModLoader] Attempting to reparse the mod container The Lion King Mod v1.13.zip
+2025-06-29 18:38:00 [FINE] [ForgeModLoader] Examining file The Lion King Mod v1.13.zip for potential mods
+2025-06-29 18:38:00 [FINER] [ForgeModLoader] Located mcmod.info file in file The Lion King Mod v1.13.zip
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Identified a class lionking.common.mod_LionKing following modloader naming convention but not directly a BaseMod or currently seen subclass
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Identified an FMLMod type mod lionking.common.mod_LionKing
+2025-06-29 18:38:01 [FINEST] [lionking] Parsed dependency info : [] [] []
+2025-06-29 18:38:01 [INFO] [ForgeModLoader] Forge Mod Loader has identified 7 mods to load
+2025-06-29 18:38:01 [FINER] [ForgeModLoader] Received a system property request ''
+2025-06-29 18:38:01 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Reloading logging properties from G:\_Persona\Sean\Documents\MC_server_git_test\mc_n_frends\versions\1.6.4_mod\server\config\logging.properties
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Reloaded logging properties
+2025-06-29 18:38:01 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2025-06-29 18:38:01 [INFO] [mcp] Activating mod mcp
+2025-06-29 18:38:01 [FINE] [FML] Mod Logging channel FML configured at default level.
+2025-06-29 18:38:01 [INFO] [FML] Activating mod FML
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Injecting found translation data in zip file minecraftforge-universal-1.6.4-9.11.1.1345.jar at assets/forge/lang/en_US.lang into language system
+2025-06-29 18:38:01 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2025-06-29 18:38:01 [INFO] [Forge] Activating mod Forge
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Injecting found translation data in zip file minecraftforge-universal-1.6.4-9.11.1.1345.jar at assets/forge/lang/en_US.lang into language system
+2025-06-29 18:38:01 [FINE] [Backpack] Enabling mod Backpack
+2025-06-29 18:38:01 [FINE] [Backpack] Mod Logging channel Backpack configured at default level.
+2025-06-29 18:38:01 [INFO] [Backpack] Activating mod Backpack
+2025-06-29 18:38:01 [FINE] [BiblioCraft] Enabling mod BiblioCraft
+2025-06-29 18:38:01 [FINE] [BiblioCraft] Mod Logging channel BiblioCraft configured at default level.
+2025-06-29 18:38:01 [INFO] [BiblioCraft] Activating mod BiblioCraft
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Injecting found translation data in zip file BiblioCraft[v1.5.5].zip at assets/bibliocraft/lang/en_US.lang into language system
+2025-06-29 18:38:01 [FINE] [props] Enabling mod props
+2025-06-29 18:38:01 [FINE] [props] Mod Logging channel props configured at default level.
+2025-06-29 18:38:01 [INFO] [props] Activating mod props
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Injecting found translation data in zip file DecoCraft1.6.4 V1.9b.zip at assets/forge/lang/en_US.lang into language system
+2025-06-29 18:38:01 [FINE] [lionking] Enabling mod lionking
+2025-06-29 18:38:01 [FINE] [lionking] Mod Logging channel lionking configured at default level.
+2025-06-29 18:38:01 [INFO] [lionking] Activating mod lionking
+2025-06-29 18:38:01 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2025-06-29 18:38:01 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2025-06-29 18:38:01 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2025-06-29 18:38:01 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Mod sorting data
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	Backpack(Backpack:1.28.37): Backpack-1.28.37-1.6.x.jar ()
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	BiblioCraft(BiblioCraft:1.5.5): BiblioCraft[v1.5.5].zip ()
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	props(DecoCraft:1.9a): DecoCraft1.6.4 V1.9b.zip ()
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	lionking(The Lion King Mod:v1.13 for Minecraft 1.6.4): The Lion King Mod v1.13.zip ()
+2025-06-29 18:38:01 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2025-06-29 18:38:01 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2025-06-29 18:38:01 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2025-06-29 18:38:01 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2025-06-29 18:38:01 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2025-06-29 18:38:01 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2025-06-29 18:38:01 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2025-06-29 18:38:01 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.11.1.1345)
+2025-06-29 18:38:01 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2025-06-29 18:38:01 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2025-06-29 18:38:01 [FINEST] [Backpack] Sending event FMLConstructionEvent to mod Backpack
+2025-06-29 18:38:01 [FINEST] [ForgeModLoader] Testing mod Backpack to verify it accepts its own version in a remote connection
+2025-06-29 18:38:01 [FINEST] [ForgeModLoader] The mod Backpack accepts its own version (1.28.37)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into Backpack
+2025-06-29 18:38:01 [FINEST] [Backpack] Sent event FMLConstructionEvent to mod Backpack
+2025-06-29 18:38:01 [FINEST] [BiblioCraft] Sending event FMLConstructionEvent to mod BiblioCraft
+2025-06-29 18:38:01 [FINEST] [ForgeModLoader] Testing mod BiblioCraft to verify it accepts its own version in a remote connection
+2025-06-29 18:38:01 [FINEST] [ForgeModLoader] The mod BiblioCraft accepts its own version (1.5.5)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into BiblioCraft
+2025-06-29 18:38:01 [FINEST] [BiblioCraft] Sent event FMLConstructionEvent to mod BiblioCraft
+2025-06-29 18:38:01 [FINEST] [props] Sending event FMLConstructionEvent to mod props
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into props
+2025-06-29 18:38:01 [FINEST] [props] Sent event FMLConstructionEvent to mod props
+2025-06-29 18:38:01 [FINEST] [lionking] Sending event FMLConstructionEvent to mod lionking
+2025-06-29 18:38:01 [FINEST] [ForgeModLoader] Testing mod lionking to verify it accepts its own version in a remote connection
+2025-06-29 18:38:01 [FINEST] [ForgeModLoader] The mod lionking accepts its own version (v1.13 for Minecraft 1.6.4)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into lionking
+2025-06-29 18:38:01 [FINEST] [lionking] Sent event FMLConstructionEvent to mod lionking
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Mod signature data
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:8.09): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:6.4.50.1,345): minecraftforge-universal-1.6.4-9.11.1.1345.jar (e3c3d50c7c986df74c645c0ac54639741c90a557)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:9.11.1.1345): minecraftforge-universal-1.6.4-9.11.1.1345.jar (NO VALID CERTIFICATE FOUND)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	Backpack(Backpack:1.28.37): Backpack-1.28.37-1.6.x.jar (NO VALID CERTIFICATE FOUND)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	BiblioCraft(BiblioCraft:1.5.5): BiblioCraft[v1.5.5].zip (NO VALID CERTIFICATE FOUND)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	props(DecoCraft:1.9a): DecoCraft1.6.4 V1.9b.zip (NO VALID CERTIFICATE FOUND)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] 	lionking(The Lion King Mod:v1.13 for Minecraft 1.6.4): The Lion King Mod v1.13.zip (NO VALID CERTIFICATE FOUND)
+2025-06-29 18:38:01 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2025-06-29 18:38:01 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2025-06-29 18:38:01 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2025-06-29 18:38:01 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2025-06-29 18:38:01 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2025-06-29 18:38:01 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2025-06-29 18:38:01 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2025-06-29 18:38:01 [FINEST] [Backpack] Sending event FMLPreInitializationEvent to mod Backpack
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item backpack.item.ItemBackpack(18586) owned by Backpack
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item backpack.item.ItemWorkbenchBackpack(18589) owned by Backpack
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item backpack.item.ItemLeather(18587) owned by Backpack
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item backpack.item.ItemLeather(18588) owned by Backpack
+2025-06-29 18:38:01 [FINEST] [Backpack] Sent event FMLPreInitializationEvent to mod Backpack
+2025-06-29 18:38:01 [FINEST] [BiblioCraft] Sending event FMLPreInitializationEvent to mod BiblioCraft
+2025-06-29 18:38:01 [FINEST] [BiblioCraft] Sent event FMLPreInitializationEvent to mod BiblioCraft
+2025-06-29 18:38:01 [FINEST] [props] Sending event FMLPreInitializationEvent to mod props
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item com.mia.props.ItemProps(5556) owned by props
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item com.mia.props.ItemCratingClay(5301) owned by props
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(2500) owned by props
+2025-06-29 18:38:01 [FINEST] [props] Sent event FMLPreInitializationEvent to mod props
+2025-06-29 18:38:01 [FINEST] [lionking] Sending event FMLPreInitializationEvent to mod lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTicket(4256) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4257) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4258) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4259) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemRafikiStick(4260) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTallFlower(4261) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4262) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4263) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4264) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4265) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4266) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4267) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4268) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemDartShooter(4269) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4270) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSpecialArmor(4271) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4272) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemBlockPlacer(4273) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4274) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4275) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4276) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemShovel(4277) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemPickaxe(4278) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemAxe(4279) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSword(4280) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemHoe(4281) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTermite(4282) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemScarRug(4283) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemJar(4284) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemJar(4285) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4286) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemDartShooter(4287) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemShovel(4288) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemPickaxe(4289) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemAxe(4290) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSword(4291) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemHoe(4292) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemCoin(4293) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4294) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemDust(4295) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTunnahDiggah(4296) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4297) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4298) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4299) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemPumbaaBomb(4300) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4301) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemZebraMilk(4302) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4303) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4304) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4305) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4306) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4307) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4308) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4309) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4310) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemVase(4311) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4312) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemGroundRhinoHorn(4313) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemBed(4314) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4315) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4316) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSpear(4317) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMangoJuice(4318) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4319) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4320) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4321) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4322) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemJar(4323) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4324) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemShovel(4325) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemPickaxe(4326) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemAxe(4327) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSword(4328) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemHoe(4329) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4330) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4331) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4332) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemArmor(4333) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemRugDye(4334) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSpecialArmor(4335) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4336) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemBlockPlacer(4337) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4338) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4339) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4340) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4341) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemPassionFruit(4342) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTallFlower(4343) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4344) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemShovelFire(4345) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemPickaxeFire(4346) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemAxeFire(4347) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSwordFire(4348) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemBugStew(4349) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4350) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4351) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSpear(4352) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemXpGrub(4353) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemShovelCorrupt(4354) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemPickaxeCorrupt(4355) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemAxeCorrupt(4356) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSwordCorrupt(4357) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSimbaCharm(4358) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemZazuEgg(4359) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4360) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSeeds(4361) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTicketLionSuit(4362) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTicketLionSuit(4363) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTicketLionSuit(4364) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemTicketLionSuit(4365) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemQuestBook(4366) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemOutlandsHelm(4367) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemDartQuiver(4368) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemOutlandsFeather(4369) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemScarRug(4370) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemCoin(4371) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemHyenaHead(4372) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemAmulet(4373) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMountedShooter(4374) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemStaff(4375) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemNote(4376) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemGiraffeSaddle(4377) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemSpawnEgg(4378) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemGiraffeTie(4379) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemYam(4380) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4381) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemBanana(4382) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemBlockPlacer(4383) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4384) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4385) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemFood(4386) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemHyenaMeal(4387) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4388) owned by lionking
+2025-06-29 18:38:01 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItem(4389) owned by lionking
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/gen/feature/WorldGenSwamp (input size 2197), found 1 patch
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/gen/feature/WorldGenSwamp (new size 3203)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/gen/feature/WorldGenTaiga1 (input size 1541), found 1 patch
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/gen/feature/WorldGenTaiga1 (new size 2502)
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Runtime patching class net.minecraft.entity.passive.EntityMooshroom (input size 1666), found 1 patch
+2025-06-29 18:38:01 [FINE] [ForgeModLoader] Successfully applied runtime patches for net.minecraft.entity.passive.EntityMooshroom (new size 2516)
+2025-06-29 18:38:01 [FINEST] [lionking] Sent event FMLPreInitializationEvent to mod lionking
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTicket with ID 4256 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4257 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4258 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4259 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemRafikiStick with ID 4260 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTallFlower with ID 4261 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4262 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4263 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4264 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4265 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4266 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4267 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4268 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemDartShooter with ID 4269 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4270 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSpecialArmor with ID 4271 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4272 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemBlockPlacer with ID 4273 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4274 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4275 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4276 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemShovel with ID 4277 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemPickaxe with ID 4278 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemAxe with ID 4279 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSword with ID 4280 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemHoe with ID 4281 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTermite with ID 4282 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemScarRug with ID 4283 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemJar with ID 4284 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemJar with ID 4285 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4286 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemDartShooter with ID 4287 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemShovel with ID 4288 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemPickaxe with ID 4289 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemAxe with ID 4290 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSword with ID 4291 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemHoe with ID 4292 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemCoin with ID 4293 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4294 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemDust with ID 4295 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTunnahDiggah with ID 4296 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4297 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4298 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4299 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemPumbaaBomb with ID 4300 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4301 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemZebraMilk with ID 4302 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4303 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4304 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4305 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4306 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4307 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4308 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4309 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4310 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemVase with ID 4311 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4312 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemGroundRhinoHorn with ID 4313 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemBed with ID 4314 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4315 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4316 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSpear with ID 4317 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemMangoJuice with ID 4318 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4319 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4320 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4321 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4322 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemJar with ID 4323 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4324 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemShovel with ID 4325 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemPickaxe with ID 4326 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemAxe with ID 4327 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSword with ID 4328 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemHoe with ID 4329 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4330 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4331 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4332 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemArmor with ID 4333 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemRugDye with ID 4334 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSpecialArmor with ID 4335 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4336 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemBlockPlacer with ID 4337 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4338 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4339 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4340 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4341 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemPassionFruit with ID 4342 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTallFlower with ID 4343 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4344 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemShovelFire with ID 4345 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemPickaxeFire with ID 4346 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemAxeFire with ID 4347 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSwordFire with ID 4348 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemBugStew with ID 4349 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4350 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4351 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSpear with ID 4352 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemXpGrub with ID 4353 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemShovelCorrupt with ID 4354 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemPickaxeCorrupt with ID 4355 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemAxeCorrupt with ID 4356 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSwordCorrupt with ID 4357 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSimbaCharm with ID 4358 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemZazuEgg with ID 4359 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4360 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSeeds with ID 4361 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTicketLionSuit with ID 4362 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTicketLionSuit with ID 4363 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTicketLionSuit with ID 4364 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemTicketLionSuit with ID 4365 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemQuestBook with ID 4366 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemOutlandsHelm with ID 4367 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemDartQuiver with ID 4368 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemOutlandsFeather with ID 4369 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemScarRug with ID 4370 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemCoin with ID 4371 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemHyenaHead with ID 4372 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemAmulet with ID 4373 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemMountedShooter with ID 4374 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemStaff with ID 4375 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemNote with ID 4376 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemGiraffeSaddle with ID 4377 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemSpawnEgg with ID 4378 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemGiraffeTie with ID 4379 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemYam with ID 4380 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4381 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemBanana with ID 4382 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemBlockPlacer with ID 4383 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4384 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4385 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemFood with ID 4386 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItemHyenaMeal with ID 4387 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4388 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [SEVERE] [ForgeModLoader] Found anonymous item of class lionking.common.LKItem with ID 4389 owned by mod lionking, this item will NOT survive a 1.7 upgrade!
+2025-06-29 18:38:01 [INFO] [Minecraft-Server] Loading properties
+2025-06-29 18:38:01 [INFO] [Minecraft-Server] Default game type: SURVIVAL
+2025-06-29 18:38:01 [INFO] [Minecraft-Server] Generating keypair
+2025-06-29 18:38:01 [INFO] [Minecraft-Server] Starting Minecraft server on *:25565
+2025-06-29 18:38:01 [WARNING] [Minecraft-Server] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-06-29 18:38:01 [WARNING] [Minecraft-Server] The server will make no attempt to authenticate usernames. Beware.
+2025-06-29 18:38:01 [WARNING] [Minecraft-Server] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-06-29 18:38:01 [WARNING] [Minecraft-Server] To change this, set "online-mode" to "true" in the server.properties file.
+2025-06-29 18:38:01 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2025-06-29 18:38:01 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2025-06-29 18:38:01 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2025-06-29 18:38:01 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2025-06-29 18:38:01 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2025-06-29 18:38:01 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2025-06-29 18:38:01 [FINEST] [Backpack] Sending event FMLInitializationEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [Backpack] Sent event FMLInitializationEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sending event FMLInitializationEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemWritingDesk(2248) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemBookcaseMaster(2250) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemPotionShelfMaster(2252) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemGenericShelfMaster(2254) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemWeaponRackMaster(2253) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemWeaponCaseMaster(2255) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemLabelMaster(2251) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemTable(2245) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(2249) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(2246) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(2247) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemLantern(2243) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemLamp(2244) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemStuffsMaster(2242) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemMapFrame(2290) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.blocks.BlockItemSeat(2291) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.TapeMeasure(22478) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemTape(22479) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemChase(22480) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemPlate(22481) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemEnchantedPlate(22484) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemRedstoneBook(22482) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemReadingGlasses(22483) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemDrill(22486) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemLock(22487) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemClipboard(22488) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemSeatBack(22492) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemSeatBack2(22493) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemSeatBack3(22494) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemSeatBack4(22495) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemSeatBack5(22496) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemMapTool(22490) owned by BiblioCraft
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item jds.bibliocraft.items.ItemWaypointCompass(22491) owned by BiblioCraft
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod BiblioCraft entity SeatEntity as BiblioCraft.SeatEntity
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sent event FMLInitializationEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [props] Sending event FMLInitializationEvent to mod props
+2025-06-29 18:38:02 [FINEST] [props] Sent event FMLInitializationEvent to mod props
+2025-06-29 18:38:02 [FINEST] [lionking] Sending event FMLInitializationEvent to mod lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1200) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1201) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemSlab(1202) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1203) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemLeaves(1204) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1205) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1206) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1207) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemLeaves(1208) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1209) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1210) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1211) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1212) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemSlab(1213) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1214) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1215) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1216) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(217) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1218) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1219) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1220) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1221) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemLeaves(1222) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1223) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1224) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1225) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1226) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1227) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1228) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1229) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1230) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemQuestBlock(1231) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemSlab(1232) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemSlab(1233) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1234) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1235) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1236) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1237) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1238) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1239) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1240) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1241) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemRug(1242) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1243) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1244) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1245) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1246) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1247) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1248) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1249) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1250) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1251) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1252) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1253) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1254) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1255) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemQuestBlock(1256) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1257) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemLily(1258) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1259) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1260) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1261) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1262) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1263) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1264) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1265) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1266) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemLeaves(1267) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1268) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1269) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1270) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1271) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1272) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemMetadata(1273) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1274) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item lionking.common.LKItemLeaves(1275) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1276) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1277) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1278) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1279) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1280) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemSlab(1281) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemSlab(1282) owned by lionking
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.ItemBlock(1283) owned by lionking
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Lion as lionking.Lion
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Lioness as lionking.Lioness
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Zebra as lionking.Zebra
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Zazu as lionking.Zazu
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Rafiki as lionking.Rafiki
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Timon as lionking.Timon
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Pumbaa as lionking.Pumbaa
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Bug as lionking.Bug
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Simba as lionking.Simba
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Hyena as lionking.Hyena
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Scar as lionking.Scar
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Outlander as lionking.Outlander
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Vulture as lionking.Vulture
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Exploding Termite as lionking.Exploding Termite
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Ticket Lion as lionking.Ticket Lion
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Rhino as lionking.Rhino
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Outlandess as lionking.Outlandess
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Gemsbok as lionking.Gemsbok
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Crocodile as lionking.Crocodile
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Zira as lionking.Zira
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Termite Queen as lionking.Termite Queen
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Giraffe as lionking.Giraffe
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Skeletal Hyena as lionking.Skeletal Hyena
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Skeletal Hyena Head as lionking.Skeletal Hyena Head
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Dik-dik as lionking.Dik-dik
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Flamingo as lionking.Flamingo
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Blue Dart as lionking.Blue Dart
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Yellow Dart as lionking.Yellow Dart
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Red Dart as lionking.Red Dart
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Outlandish Dart as lionking.Outlandish Dart
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Thrown Rafiki Coin as lionking.Thrown Rafiki Coin
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Thrown Termite as lionking.Thrown Termite
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Falling Outsand as lionking.Falling Outsand
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Thrown Pumbaa Bomb as lionking.Thrown Pumbaa Bomb
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Gemsbok Spear as lionking.Gemsbok Spear
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Poisoned Gemsbok Spear as lionking.Poisoned Gemsbok Spear
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Zazu Egg as lionking.Zazu Egg
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Scar Rug as lionking.Scar Rug
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Automatically registered mod lionking entity Flamingo Dart as lionking.Flamingo Dart
+2025-06-29 18:38:02 [FINEST] [lionking] Sent event FMLInitializationEvent to mod lionking
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2025-06-29 18:38:02 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2025-06-29 18:38:02 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2025-06-29 18:38:02 [FINEST] [FML] Sending event IMCEvent to mod FML
+2025-06-29 18:38:02 [FINEST] [FML] Sent event IMCEvent to mod FML
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2025-06-29 18:38:02 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2025-06-29 18:38:02 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Backpack
+2025-06-29 18:38:02 [FINEST] [Backpack] Sending event IMCEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [Backpack] Sent event IMCEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sending event IMCEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sent event IMCEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod props
+2025-06-29 18:38:02 [FINEST] [props] Sending event IMCEvent to mod props
+2025-06-29 18:38:02 [FINEST] [props] Sent event IMCEvent to mod props
+2025-06-29 18:38:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod lionking
+2025-06-29 18:38:02 [FINEST] [lionking] Sending event IMCEvent to mod lionking
+2025-06-29 18:38:02 [FINEST] [lionking] Sent event IMCEvent to mod lionking
+2025-06-29 18:38:02 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2025-06-29 18:38:02 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2025-06-29 18:38:02 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2025-06-29 18:38:02 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2025-06-29 18:38:02 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2025-06-29 18:38:02 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2025-06-29 18:38:02 [FINEST] [Backpack] Sending event FMLPostInitializationEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [Backpack] Sent event FMLPostInitializationEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sending event FMLPostInitializationEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sent event FMLPostInitializationEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [props] Sending event FMLPostInitializationEvent to mod props
+2025-06-29 18:38:02 [FINEST] [props] Sent event FMLPostInitializationEvent to mod props
+2025-06-29 18:38:02 [FINEST] [lionking] Sending event FMLPostInitializationEvent to mod lionking
+2025-06-29 18:38:02 [FINEST] [lionking] Sent event FMLPostInitializationEvent to mod lionking
+2025-06-29 18:38:02 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2025-06-29 18:38:02 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2025-06-29 18:38:02 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2025-06-29 18:38:02 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2025-06-29 18:38:02 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2025-06-29 18:38:02 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2025-06-29 18:38:02 [FINEST] [Backpack] Sending event FMLLoadCompleteEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [Backpack] Sent event FMLLoadCompleteEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sending event FMLLoadCompleteEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sent event FMLLoadCompleteEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [props] Sending event FMLLoadCompleteEvent to mod props
+2025-06-29 18:38:02 [FINEST] [props] Sent event FMLLoadCompleteEvent to mod props
+2025-06-29 18:38:02 [FINEST] [lionking] Sending event FMLLoadCompleteEvent to mod lionking
+2025-06-29 18:38:02 [FINEST] [lionking] Sent event FMLLoadCompleteEvent to mod lionking
+2025-06-29 18:38:02 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 7 mods
+2025-06-29 18:38:02 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2025-06-29 18:38:02 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2025-06-29 18:38:02 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2025-06-29 18:38:02 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2025-06-29 18:38:02 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2025-06-29 18:38:02 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2025-06-29 18:38:02 [FINEST] [Backpack] Sending event FMLServerAboutToStartEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [Backpack] Sent event FMLServerAboutToStartEvent to mod Backpack
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sending event FMLServerAboutToStartEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [BiblioCraft] Sent event FMLServerAboutToStartEvent to mod BiblioCraft
+2025-06-29 18:38:02 [FINEST] [props] Sending event FMLServerAboutToStartEvent to mod props
+2025-06-29 18:38:02 [FINEST] [props] Sent event FMLServerAboutToStartEvent to mod props
+2025-06-29 18:38:02 [FINEST] [lionking] Sending event FMLServerAboutToStartEvent to mod lionking
+2025-06-29 18:38:02 [FINEST] [lionking] Sent event FMLServerAboutToStartEvent to mod lionking
+2025-06-29 18:38:02 [INFO] [Minecraft-Server] Preparing level "world123"
+2025-06-29 18:38:02 [FINE] [fml.ItemTracker] The difference set is not equal: only on right={18586=Item 18586, Type backpack.item.ItemBackpack, owned by Backpack, ordinal 0, name backpack, claimedModId null, 18587=Item 18587, Type backpack.item.ItemLeather, owned by Backpack, ordinal 0, name boundLeather, claimedModId null, 18588=Item 18588, Type backpack.item.ItemLeather, owned by Backpack, ordinal 1, name tannedLeather, claimedModId null, 18589=Item 18589, Type backpack.item.ItemWorkbenchBackpack, owned by Backpack, ordinal 0, name workbenchbackpack, claimedModId null, 5301=Item 5301, Type com.mia.props.ItemCratingClay, owned by props, ordinal 0, name clay, claimedModId null, 5556=Item 5556, Type com.mia.props.ItemProps, owned by props, ordinal 0, name props, claimedModId null, 2500=Item 2500, Type com.mia.props.BlockProps, owned by props, ordinal 0, name blockProps, claimedModId null}
+2025-06-29 18:38:02 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/gen/MapGenCaves (input size 3540), found 1 patch
+2025-06-29 18:38:02 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/gen/MapGenCaves (new size 5863)
+2025-06-29 18:38:02 [FINE] [ForgeModLoader] Runtime patching class net/minecraft/world/gen/structure/StructureVillagePieces (input size 4892), found 1 patch
+2025-06-29 18:38:02 [FINE] [ForgeModLoader] Successfully applied runtime patches for net/minecraft/world/gen/structure/StructureVillagePieces (new size 6504)
+2025-06-29 18:38:02 [INFO] [ForgeModLoader] Loading dimension 0 (world123) (net.minecraft.server.dedicated.DedicatedServer@fd3b366)
+2025-06-29 18:38:02 [INFO] [ForgeModLoader] Loading dimension -3 (world123) (net.minecraft.server.dedicated.DedicatedServer@fd3b366)
+2025-06-29 18:38:02 [INFO] [ForgeModLoader] Loading dimension -4 (world123) (net.minecraft.server.dedicated.DedicatedServer@fd3b366)
+2025-06-29 18:38:02 [INFO] [ForgeModLoader] Loading dimension 1 (world123) (net.minecraft.server.dedicated.DedicatedServer@fd3b366)
+2025-06-29 18:38:02 [INFO] [ForgeModLoader] Loading dimension -1 (world123) (net.minecraft.server.dedicated.DedicatedServer@fd3b366)
+2025-06-29 18:38:02 [INFO] [ForgeModLoader] Loading dimension -2 (world123) (net.minecraft.server.dedicated.DedicatedServer@fd3b366)
+2025-06-29 18:38:02 [INFO] [Minecraft-Server] Preparing start region for level 0
+2025-06-29 18:38:03 [INFO] [Minecraft-Server] Done (1.291s)! For help, type "help" or "?"
+2025-06-29 18:38:03 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2025-06-29 18:38:03 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2025-06-29 18:38:03 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2025-06-29 18:38:03 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2025-06-29 18:38:03 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2025-06-29 18:38:03 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2025-06-29 18:38:03 [FINEST] [Backpack] Sending event FMLServerStartingEvent to mod Backpack
+2025-06-29 18:38:03 [FINEST] [Backpack] Sent event FMLServerStartingEvent to mod Backpack
+2025-06-29 18:38:03 [FINEST] [BiblioCraft] Sending event FMLServerStartingEvent to mod BiblioCraft
+2025-06-29 18:38:03 [FINEST] [BiblioCraft] Sent event FMLServerStartingEvent to mod BiblioCraft
+2025-06-29 18:38:03 [FINEST] [props] Sending event FMLServerStartingEvent to mod props
+2025-06-29 18:38:03 [FINEST] [props] Sent event FMLServerStartingEvent to mod props
+2025-06-29 18:38:03 [FINEST] [lionking] Sending event FMLServerStartingEvent to mod lionking
+2025-06-29 18:38:03 [FINEST] [lionking] Sent event FMLServerStartingEvent to mod lionking
+2025-06-29 18:38:03 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2025-06-29 18:38:03 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2025-06-29 18:38:03 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2025-06-29 18:38:03 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2025-06-29 18:38:03 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2025-06-29 18:38:03 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2025-06-29 18:38:03 [FINEST] [Backpack] Sending event FMLServerStartedEvent to mod Backpack
+2025-06-29 18:38:03 [FINEST] [Backpack] Sent event FMLServerStartedEvent to mod Backpack
+2025-06-29 18:38:03 [FINEST] [BiblioCraft] Sending event FMLServerStartedEvent to mod BiblioCraft
+2025-06-29 18:38:03 [FINEST] [BiblioCraft] Sent event FMLServerStartedEvent to mod BiblioCraft
+2025-06-29 18:38:03 [FINEST] [props] Sending event FMLServerStartedEvent to mod props
+2025-06-29 18:38:03 [FINEST] [props] Sent event FMLServerStartedEvent to mod props
+2025-06-29 18:38:03 [FINEST] [lionking] Sending event FMLServerStartedEvent to mod lionking
+2025-06-29 18:38:03 [FINEST] [lionking] Sent event FMLServerStartedEvent to mod lionking
+2025-06-29 18:38:11 [FINEST] [ForgeModLoader] Received valid FML login packet from /127.0.0.1:50222
+2025-06-29 18:38:11 [INFO] [ForgeModLoader] User OseanBoy connecting with mods [Backpack, Forge, lionking, BiblioCraft]
+2025-06-29 18:38:11 [INFO] [Minecraft-Server] OseanBoy[/127.0.0.1:50222] logged in with entity id 361 at (217.12705586382694, 78.0, 211.6504781046837)
+2025-06-29 18:38:12 [INFO] [Minecraft-Server] OseanBoy joined the game
+2025-06-29 18:38:48 [INFO] [STDERR] java.net.SocketException: Connection reset
+2025-06-29 18:38:48 [INFO] [STDERR] 	at java.net.SocketInputStream.read(Unknown Source)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at java.net.SocketInputStream.read(Unknown Source)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at java.io.FilterInputStream.read(Unknown Source)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at org.bouncycastle.crypto.io.CipherInputStream.nextChunk(Unknown Source)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at org.bouncycastle.crypto.io.CipherInputStream.read(Unknown Source)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at java.io.DataInputStream.readUnsignedByte(Unknown Source)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at net.minecraft.network.packet.Packet.func_73272_a(Packet.java:145)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at net.minecraft.network.TcpConnection.func_74447_i(TcpConnection.java:325)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at net.minecraft.network.TcpConnection.func_74450_c(TcpConnection.java:549)
+2025-06-29 18:38:48 [INFO] [STDERR] 	at net.minecraft.network.TcpReaderThread.run(SourceFile:94)
+2025-06-29 18:38:48 [INFO] [Minecraft-Server] OseanBoy lost connection: disconnect.genericReason
+2025-06-29 18:38:48 [INFO] [Minecraft-Server] OseanBoy left the game
