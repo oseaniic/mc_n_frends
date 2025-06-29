@@ -1,0 +1,73 @@
+2025-06-29 17:43:37 [INFO] Starting minecraft server version 1.6.4
+2025-06-29 17:43:37 [INFO] Loading properties
+2025-06-29 17:43:37 [WARNING] server.properties does not exist
+2025-06-29 17:43:37 [INFO] Generating new properties file
+2025-06-29 17:43:37 [INFO] Default game type: SURVIVAL
+2025-06-29 17:43:37 [INFO] Generating keypair
+2025-06-29 17:43:37 [INFO] Starting Minecraft server on *:25565
+2025-06-29 17:43:37 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2025-06-29 17:43:37 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2025-06-29 17:43:37 [INFO] Preparing level "world"
+2025-06-29 17:43:37 [INFO] Preparing start region for level 0
+2025-06-29 17:43:38 [INFO] Preparing spawn area: 17%
+2025-06-29 17:43:39 [INFO] Preparing spawn area: 34%
+2025-06-29 17:43:40 [INFO] Preparing spawn area: 58%
+2025-06-29 17:43:41 [INFO] Preparing spawn area: 83%
+2025-06-29 17:43:42 [INFO] Done (4.926s)! For help, type "help" or "?"
+2025-06-29 17:44:28 [SEVERE] Reached end of stream for /127.0.0.1
+2025-06-29 17:44:28 [INFO] OseanBoy [/127.0.0.1:49925] lost connection
+2025-06-29 17:44:59 [INFO] Unknown command. Try /help for a list of commands
+2025-06-29 17:45:01 [INFO] Unknown command. Try /help for a list of commands
+2025-06-29 17:45:37 [INFO] Stopping the server
+2025-06-29 17:45:37 [INFO] Stopping server
+2025-06-29 17:45:37 [INFO] Saving players
+2025-06-29 17:45:37 [INFO] Saving worlds
+2025-06-29 17:45:37 [INFO] Closing listening thread
+2025-06-29 17:45:37 [INFO] Saving chunks for level 'world'/Overworld
+2025-06-29 17:45:37 [INFO] Saving chunks for level 'world'/Nether
+2025-06-29 17:45:37 [INFO] Saving chunks for level 'world'/The End
+2025-06-29 17:45:41 [INFO] Starting minecraft server version 1.6.4
+2025-06-29 17:45:41 [INFO] Loading properties
+2025-06-29 17:45:41 [INFO] Default game type: SURVIVAL
+2025-06-29 17:45:41 [INFO] Generating keypair
+2025-06-29 17:45:41 [INFO] Starting Minecraft server on *:25565
+2025-06-29 17:45:41 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-06-29 17:45:41 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-06-29 17:45:41 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-06-29 17:45:41 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2025-06-29 17:45:41 [INFO] Preparing level "world"
+2025-06-29 17:45:41 [INFO] Preparing start region for level 0
+2025-06-29 17:45:42 [INFO] Done (0.515s)! For help, type "help" or "?"
+2025-06-29 17:45:51 [INFO] Stopping server
+2025-06-29 17:45:51 [INFO] Saving players
+2025-06-29 17:45:51 [INFO] Saving worlds
+2025-06-29 17:45:51 [INFO] Closing listening thread
+2025-06-29 17:45:51 [INFO] Saving chunks for level 'world'/Overworld
+2025-06-29 17:45:51 [INFO] Saving chunks for level 'world'/Nether
+2025-06-29 17:45:51 [INFO] Saving chunks for level 'world'/The End
+2025-06-29 17:45:51 [INFO] Stopping server
+2025-06-29 17:45:54 [INFO] Starting minecraft server version 1.6.4
+2025-06-29 17:45:54 [INFO] Loading properties
+2025-06-29 17:45:54 [INFO] Default game type: SURVIVAL
+2025-06-29 17:45:54 [INFO] Generating keypair
+2025-06-29 17:45:54 [INFO] Starting Minecraft server on *:25565
+2025-06-29 17:45:54 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-06-29 17:45:54 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-06-29 17:45:54 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-06-29 17:45:54 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2025-06-29 17:45:54 [INFO] Preparing level "world"
+2025-06-29 17:45:54 [INFO] Preparing start region for level 0
+2025-06-29 17:45:55 [INFO] Done (0.481s)! For help, type "help" or "?"
+2025-06-29 17:47:01 [INFO] OseanBoy[/127.0.0.1:49927] logged in with entity id 188 at (-23.5, 64.0, 241.5)
+2025-06-29 17:47:01 [INFO] OseanBoy joined the game
+2025-06-29 17:47:15 [INFO] OseanBoy lost connection: disconnect.genericReason
+2025-06-29 17:47:15 [INFO] OseanBoy left the game
+2025-06-29 17:47:18 [INFO] Stopping the server
+2025-06-29 17:47:18 [INFO] Stopping server
+2025-06-29 17:47:18 [INFO] Saving players
+2025-06-29 17:47:18 [INFO] Saving worlds
+2025-06-29 17:47:18 [INFO] Closing listening thread
+2025-06-29 17:47:18 [INFO] Saving chunks for level 'world'/Overworld
+2025-06-29 17:47:18 [INFO] Saving chunks for level 'world'/Nether
+2025-06-29 17:47:18 [INFO] Saving chunks for level 'world'/The End
+2025-06-29 17:47:18 [INFO] Stopping server
