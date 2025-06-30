@@ -1,9 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
 
-git reset --hard origin/main
-git clean -fd
-
 set "target_dir=%appdata%\PollyMC\instances\1.6.4"
 set "mods_target=%target_dir%\.minecraft\mods"
 set "resourcepacks_target=%target_dir%\.minecraft\resourcepacks"
