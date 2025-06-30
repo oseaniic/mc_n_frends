@@ -111,3 +111,52 @@
 2025-06-29 18:38:12 [INFO] OseanBoy joined the game
 2025-06-29 18:38:48 [INFO] OseanBoy lost connection: disconnect.genericReason
 2025-06-29 18:38:48 [INFO] OseanBoy left the game
+2025-06-29 20:42:26 [INFO] Starting minecraft server version 1.6.4
+2025-06-29 20:42:27 [INFO] Loading properties
+2025-06-29 20:42:27 [INFO] Default game type: SURVIVAL
+2025-06-29 20:42:27 [INFO] Generating keypair
+2025-06-29 20:42:28 [INFO] Starting Minecraft server on 25.56.43.189:25565
+2025-06-29 20:42:28 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-06-29 20:42:28 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-06-29 20:42:28 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-06-29 20:42:28 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2025-06-29 20:42:28 [SEVERE] Encountered an unexpected exception NullPointerException
+java.lang.NullPointerException
+	at chocolate.mods.BD.BetterDungeons.load(BetterDungeons.java:317)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:545)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:201)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:74)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:313)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:296)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:267)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:112)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:699)
+	at cpw.mods.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:107)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:355)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:142)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:445)
+	at net.minecraft.server.ThreadMinecraftServer.run(SourceFile:583)
+2025-06-29 20:42:28 [SEVERE] This crash report has been saved to: G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\.\crash-reports\crash-2025-06-29_20.42.28-server.txt
+2025-06-29 20:43:42 [INFO] Stopping server
+2025-06-29 20:43:42 [INFO] Saving worlds
+2025-06-29 20:43:42 [INFO] Closing listening thread
+2025-06-29 20:43:42 [INFO] Stopping server
+2025-06-29 20:43:42 [INFO] Saving worlds
