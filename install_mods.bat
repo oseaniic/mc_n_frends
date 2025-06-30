@@ -34,9 +34,9 @@ echo ===============================================
 echo ADVERTENCIA: Se realizaran los siguientes cambios
 echo ===============================================
 echo.
-echo 1. Se borraran TODOS los mods actuales en:
+echo 1. Se borraran SOLO archivos .jar y .zip en:
 echo    "%mods_target%"
-echo    (Los paquetes de recursos ni los shaderpacks seran borrados/cambiados.)
+echo    (Otros archivos, carpetas y configuraciones se conservaran.)
 echo.
 echo 2. Se instalaran los siguientes archivos:
 echo.
@@ -72,7 +72,7 @@ if exist "!shaderpacks_source!\" (
 echo.
 
 echo ===============================================
-echo Instalar mods ahora? (ADVERTENCIA: Los mods instalados actualmente seran borrados permanentemente)
+echo Instalar mods ahora? (ADVERTENCIA: Los mods .jar/.zip instalados actualmente seran borrados permanentemente)
 echo [1] Si
 echo [2] No
 echo ===============================================
@@ -109,13 +109,17 @@ if not exist "!shaderpacks_source!\" (
     exit /b 1
 )
 
-:: Wipe and replace mods
+:: Delete ONLY .jar and .zip files from mods folder
 echo.
-echo Limpiando mods existentes...
+echo Eliminando mods existentes (.jar y .zip)...
 if exist "!mods_target!\" (
-    rmdir /s /q "!mods_target!"
+    del /q "!mods_target!\*.jar" >nul 2>&1
+    del /q "!mods_target!\*.zip" >nul 2>&1
+) else (
+    mkdir "!mods_target!"
 )
-mkdir "!mods_target!"
+
+:: Copy new mods
 echo Copiando nuevos mods...
 for /f "delims=" %%f in ('dir /b "!mods_source!"') do (
     echo   - Copiando %%f

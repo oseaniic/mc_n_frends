@@ -160,3 +160,26 @@ java.lang.NullPointerException
 2025-06-29 20:43:42 [INFO] Closing listening thread
 2025-06-29 20:43:42 [INFO] Stopping server
 2025-06-29 20:43:42 [INFO] Saving worlds
+2025-06-29 21:02:16 [INFO] Starting minecraft server version 1.6.4
+2025-06-29 21:02:18 [INFO] Loading properties
+2025-06-29 21:02:18 [INFO] Default game type: SURVIVAL
+2025-06-29 21:02:18 [INFO] Generating keypair
+2025-06-29 21:02:18 [INFO] Starting Minecraft server on 25.56.43.189:25565
+2025-06-29 21:02:18 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2025-06-29 21:02:18 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2025-06-29 21:02:18 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2025-06-29 21:02:18 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2025-06-29 21:02:18 [INFO] Preparing level "world123"
+2025-06-29 21:02:19 [INFO] Preparing start region for level 0
+2025-06-29 21:02:20 [INFO] Done (1.098s)! For help, type "help" or "?"
+2025-06-29 21:02:31 [INFO] Stopping server
+2025-06-29 21:02:31 [INFO] Saving players
+2025-06-29 21:02:31 [INFO] Saving worlds
+2025-06-29 21:02:31 [INFO] Saving chunks for level 'world123'/Overworld
+2025-06-29 21:02:31 [INFO] Closing listening thread
+2025-06-29 21:02:31 [INFO] Saving chunks for level 'world123'/Nether
+2025-06-29 21:02:31 [INFO] Saving chunks for level 'world123'/The End
+2025-06-29 21:02:31 [INFO] Saving chunks for level 'world123'/Outlands
+2025-06-29 21:02:31 [INFO] Saving chunks for level 'world123'/Upendi
+2025-06-29 21:02:31 [INFO] Saving chunks for level 'world123'/Pride Lands
+2025-06-29 21:02:32 [INFO] Stopping server
