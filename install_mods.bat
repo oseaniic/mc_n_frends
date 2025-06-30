@@ -36,7 +36,7 @@ echo ===============================================
 echo.
 echo 1. Se borraran SOLO archivos .jar y .zip en:
 echo    "%mods_target%"
-echo    (Otros archivos, carpetas y configuraciones se conservaran.)
+echo    (Otros archivos, carpetas, paquetes de recursos, shaders, y configuraciones se conservaran.)
 echo.
 echo 2. Se instalaran los siguientes archivos:
 echo.
