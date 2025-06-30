@@ -17,9 +17,9 @@ set "shaderpacks_source=!source_base!\shaderpacks"
 if exist "%target_dir%\" (
     echo Launcher PollyMC Encontrado..
 ) else (
-    echo LA CARPETA
+    echo LA CARPETA:
     echo %target_dir% 
-    echo NO EXISTE, ASEGURATE DE QUE INSTALASTE EL LAUNCHER POLLYMC
+    echo NO EXISTE!, ASEGURATE DE QUE INSTALASTE EL LAUNCHER POLLYMC
     pause
     exit /b 1
 )
@@ -33,6 +33,7 @@ echo ===============================================
 echo.
 echo 1. Se borraran TODOS los mods actuales en:
 echo    "%mods_target%"
+echo    (Los paquetes de recursos ni los shaderpacks seran borrados/cambiados.)
 echo.
 echo 2. Se instalaran los siguientes archivos:
 echo.
