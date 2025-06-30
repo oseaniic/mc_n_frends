@@ -86,10 +86,9 @@ if "!choice!"=="2" (
     goto choice
 )
 
-cls
-
 :install
 :: Verify source directories exist
+cls
 if not exist "!mods_source!\" (
     echo ERROR: Carpeta de mods no encontrada: !mods_source!
     pause
