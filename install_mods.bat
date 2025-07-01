@@ -2,6 +2,7 @@
 setlocal enabledelayedexpansion
 
 git pull
+pause
 
 set "target_dir=%appdata%\PollyMC\instances\1.6.4"
 set "mods_target=%target_dir%\.minecraft\mods"
