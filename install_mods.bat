@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-echo Haciendo pull..
+echo Haciendo pull...
 git pull
 pause
 
