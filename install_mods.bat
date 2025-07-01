@@ -1,8 +1,9 @@
 @echo off
 setlocal enabledelayedexpansion
 
-echo Haciendo pull...
-git pull
+echo Syncronizando con repositorio remoto..
+git fetch origin
+git reset --hard origin/main
 pause
 
 set "target_dir=%appdata%\PollyMC\instances\1.6.4"
