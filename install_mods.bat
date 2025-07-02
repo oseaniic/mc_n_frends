@@ -36,9 +36,8 @@ echo ===============================================
 echo ADVERTENCIA: Se realizaran los siguientes cambios
 echo ===============================================
 echo.
-echo 1. Se borraran SOLO archivos .jar, .zip y carpetas en:
+echo 1. Se borraran SOLO archivos .jar y .zip en:
 echo    "%mods_target%"
-echo    que coincidan con los archivos/carpetas en el origen.
 echo    (Otros archivos, carpetas, paquetes de recursos, shaders, y configuraciones se conservaran.)
 echo.
 echo 2. Se instalaran los siguientes archivos:
@@ -75,7 +74,7 @@ if exist "!shaderpacks_source!\" (
 echo.
 
 echo ===============================================
-echo Instalar mods ahora? (ADVERTENCIA: Los mods .jar/.zip y carpetas instalados actualmente seran borrados permanentemente)
+echo Instalar mods ahora? (ADVERTENCIA: Los mods .jar/.zip instalados actualmente seran borrados permanentemente)
 echo [1] Si
 echo [2] No
 echo ===============================================
@@ -112,32 +111,21 @@ if not exist "!shaderpacks_source!\" (
     exit /b 1
 )
 
-:: Create mods directory if it doesn't exist
-if not exist "!mods_target!\" mkdir "!mods_target!"
-
-:: Delete existing mods (files and folders) that match source items
+:: Delete ONLY .jar and .zip files from mods folder
 echo.
-echo Eliminando mods existentes (archivos y carpetas)...
-for /f "delims=" %%i in ('dir /b "!mods_source!"') do (
-    if exist "!mods_target!\%%i\" (
-        echo   - Eliminando carpeta: %%i
-        rd /s /q "!mods_target!\%%i" 2>nul
-    ) else if exist "!mods_target!\%%i" (
-        echo   - Eliminando archivo: %%i
-        del /q "!mods_target!\%%i" 2>nul
-    )
+echo Eliminando mods existentes (.jar y .zip)...
+if exist "!mods_target!\" (
+    del /q "!mods_target!\*.jar" >nul 2>&1
+    del /q "!mods_target!\*.zip" >nul 2>&1
+) else (
+    mkdir "!mods_target!"
 )
 
-:: Copy new mods (both files and folders)
+:: Copy new mods
 echo Copiando nuevos mods...
-for /f "delims=" %%i in ('dir /b "!mods_source!"') do (
-    if exist "!mods_source!\%%i\" (
-        echo   - Copiando carpeta: %%i
-        xcopy /e /i /y "!mods_source!\%%i" "!mods_target!\" >nul
-    ) else (
-        echo   - Copiando archivo: %%i
-        copy /y "!mods_source!\%%i" "!mods_target!\" >nul
-    )
+for /f "delims=" %%f in ('dir /b "!mods_source!"') do (
+    echo   - Copiando %%f
+    copy /y "!mods_source!\%%f" "!mods_target!\" >nul
 )
 
 :: Copy resourcepacks (overwrite existing)
