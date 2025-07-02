@@ -9,12 +9,19 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-684 47 83 -672 70 95 BaloonVeryLow.tml
+-662 62 123 -650 117 135 BaloonHigh.tml
+-636 62 164 -606 100 194 PirateShip.tml
 -610 52 287 -574 72 298 SunkenShip-v2.tml
+-602 62 208 -590 104 220 BaloonLow.tml
 -590 62 294 -560 117 324 SkyCastle.tml
+-588 47 213 -577 59 249 SunkenShip-v3.tml
 -579 62 121 -567 104 133 BaloonLow.tml
 -552 62 223 -522 100 253 PirateShip.tml
 -549 62 138 -537 117 150 BaloonHigh.tml
 -546 49 318 -534 72 330 BaloonVeryLow.tml
+-532 71 528 -524 76 536 ShortTower.tml
+-524 69 528 -518 74 536 StoneHouse.tml
 -513 62 152 -483 117 182 SkyCastle.tml
 -508 62 45 -478 100 75 PirateShip.tml
 -501 69 498 -495 75 504 VanillaVillageLadder-p.tml
@@ -31,6 +38,7 @@
 -350 45 442 -338 68 454 BaloonVeryLow.tml
 -349 62 303 -342 71 310 BridgePilings-small.tml
 -338 62 437 -308 100 467 PirateShip.tml
+-327 62 556 -315 117 568 BaloonHigh.tml
 -323 46 454 -287 58 465 SunkenShip-v3.tml
 -321 68 255 -313 73 263 ShortTower.tml
 -305 76 305 -297 81 313 LargeStoneHouse.tml
