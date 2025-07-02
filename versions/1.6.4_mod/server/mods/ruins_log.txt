@@ -1301,10 +1301,10 @@ Loaded Desert ruins templates, biomeID 200
 Loading the wyvernbiome ruins templates...
 Loaded WyvernBiome ruins templates, biomeID 207
 
-Loading excluded list from: G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\world123\PrideLands
+Loading excluded list from: G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\world123\Outlands
 No exclusions found for this world.
 
-Loading options from: G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\world123\PrideLands
+Loading options from: G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\world123\Outlands
 Ruins is now loading the rotation mappings file G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\.\mods\resources\ruins\rotation_mappings.txt
 Now reading mappings for [53;67;108;109;114;128;134;135;136]
 Saving Mapping DIR[1] FROM[0] TO[2]
@@ -1417,4 +1417,4 @@ Saving Mapping DIR[3] FROM[8] TO[6]
 Saving Mapping DIR[3] FROM[9] TO[3]
 Saving Mapping DIR[3] FROM[10] TO[10]
 Ruins mod loaded.
-ded.
+ loaded.
