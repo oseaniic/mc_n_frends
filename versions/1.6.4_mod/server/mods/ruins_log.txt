@@ -1,0 +1,1419 @@
+Loading the generic ruins templates...
+Ignoring unknown file type: ANY_BIOME_TEMPLATES_HERE
+
+Loading the ocean ruins templates...
+Successfully loaded template BaloonHigh.tml with weight 1.
+Successfully loaded template BaloonLow.tml with weight 1.
+Successfully loaded template BaloonVeryLow.tml with weight 4.
+Successfully loaded template CastleOcean.tml with weight 1.
+Successfully loaded template Floater.tml with weight 1.
+Successfully loaded template PirateShip.tml with weight 1.
+Successfully loaded template SkyCastle.tml with weight 1.
+Successfully loaded template SunkenShip-v2.tml with weight 5.
+Successfully loaded template SunkenShip-v3.tml with weight 5.
+Successfully loaded template Underwater.tml with weight 1.
+Loaded Ocean ruins templates, biomeID 0
+
+Loading the plains ruins templates...
+template Altar.tmlalso registered for Biome Hell
+template Altar.tmlalso registered for Biome Extreme Hills Edge
+template Altar.tmlalso registered for Biome JungleHills
+template Altar.tmlalso registered for Biome Jungle
+template Altar.tmlalso registered for Biome TaigaHills
+template Altar.tmlalso registered for Biome Forest
+template Altar.tmlalso registered for Biome ForestHills
+template Altar.tmlalso registered for Biome Swampland
+template Altar.tmlalso registered for Biome Extreme Hills
+template Altar.tmlalso registered for Biome Taiga
+template Altar.tmlalso registered for Biome Rainforest
+Successfully loaded template Altar.tml with weight 1.
+template AncientFountain.tmlalso registered for Biome Hell
+template AncientFountain.tmlalso registered for Biome Extreme Hills Edge
+template AncientFountain.tmlalso registered for Biome JungleHills
+template AncientFountain.tmlalso registered for Biome Jungle
+template AncientFountain.tmlalso registered for Biome TaigaHills
+template AncientFountain.tmlalso registered for Biome Forest
+template AncientFountain.tmlalso registered for Biome ForestHills
+template AncientFountain.tmlalso registered for Biome Swampland
+template AncientFountain.tmlalso registered for Biome Extreme Hills
+template AncientFountain.tmlalso registered for Biome Taiga
+template AncientFountain.tmlalso registered for Biome Rainforest
+Successfully loaded template AncientFountain.tml with weight 1.
+template Archway.tmlalso registered for Biome Hell
+template Archway.tmlalso registered for Biome Extreme Hills Edge
+template Archway.tmlalso registered for Biome JungleHills
+template Archway.tmlalso registered for Biome Jungle
+template Archway.tmlalso registered for Biome TaigaHills
+template Archway.tmlalso registered for Biome Forest
+template Archway.tmlalso registered for Biome ForestHills
+template Archway.tmlalso registered for Biome Swampland
+template Archway.tmlalso registered for Biome Extreme Hills
+template Archway.tmlalso registered for Biome Taiga
+template Archway.tmlalso registered for Biome Rainforest
+Successfully loaded template Archway.tml with weight 1.
+template Barn-intact.tmlalso registered for Biome Hell
+template Barn-intact.tmlalso registered for Biome Extreme Hills Edge
+template Barn-intact.tmlalso registered for Biome JungleHills
+template Barn-intact.tmlalso registered for Biome Jungle
+template Barn-intact.tmlalso registered for Biome TaigaHills
+template Barn-intact.tmlalso registered for Biome Forest
+template Barn-intact.tmlalso registered for Biome ForestHills
+template Barn-intact.tmlalso registered for Biome Swampland
+template Barn-intact.tmlalso registered for Biome Extreme Hills
+template Barn-intact.tmlalso registered for Biome Taiga
+template Barn-intact.tmlalso registered for Biome Rainforest
+Successfully loaded template Barn-intact.tml with weight 1.
+template Barn-ruined.tmlalso registered for Biome Hell
+template Barn-ruined.tmlalso registered for Biome JungleHills
+template Barn-ruined.tmlalso registered for Biome Jungle
+template Barn-ruined.tmlalso registered for Biome TaigaHills
+template Barn-ruined.tmlalso registered for Biome Forest
+template Barn-ruined.tmlalso registered for Biome Extreme Hills
+template Barn-ruined.tmlalso registered for Biome Extreme Hills Edge
+template Barn-ruined.tmlalso registered for Biome ForestHills
+template Barn-ruined.tmlalso registered for Biome Swampland
+template Barn-ruined.tmlalso registered for Biome Taiga
+template Barn-ruined.tmlalso registered for Biome Rainforest
+Successfully loaded template Barn-ruined.tml with weight 2.
+template Barrow.tmlalso registered for Biome Hell
+template Barrow.tmlalso registered for Biome Extreme Hills Edge
+template Barrow.tmlalso registered for Biome JungleHills
+template Barrow.tmlalso registered for Biome Jungle
+template Barrow.tmlalso registered for Biome TaigaHills
+template Barrow.tmlalso registered for Biome Forest
+template Barrow.tmlalso registered for Biome ForestHills
+template Barrow.tmlalso registered for Biome Swampland
+template Barrow.tmlalso registered for Biome Extreme Hills
+template Barrow.tmlalso registered for Biome Taiga
+template Barrow.tmlalso registered for Biome Rainforest
+Successfully loaded template Barrow.tml with weight 1.
+template Beacon.tmlalso registered for Biome Hell
+template Beacon.tmlalso registered for Biome Extreme Hills Edge
+template Beacon.tmlalso registered for Biome JungleHills
+template Beacon.tmlalso registered for Biome Jungle
+template Beacon.tmlalso registered for Biome TaigaHills
+template Beacon.tmlalso registered for Biome Forest
+template Beacon.tmlalso registered for Biome ForestHills
+template Beacon.tmlalso registered for Biome Swampland
+template Beacon.tmlalso registered for Biome Extreme Hills
+template Beacon.tmlalso registered for Biome Taiga
+template Beacon.tmlalso registered for Biome Rainforest
+Successfully loaded template Beacon.tml with weight 3.
+template BlockHenge.tmlalso registered for Biome Hell
+template BlockHenge.tmlalso registered for Biome Extreme Hills Edge
+template BlockHenge.tmlalso registered for Biome JungleHills
+template BlockHenge.tmlalso registered for Biome Jungle
+template BlockHenge.tmlalso registered for Biome TaigaHills
+template BlockHenge.tmlalso registered for Biome Forest
+template BlockHenge.tmlalso registered for Biome ForestHills
+template BlockHenge.tmlalso registered for Biome Swampland
+template BlockHenge.tmlalso registered for Biome Extreme Hills
+template BlockHenge.tmlalso registered for Biome Taiga
+template BlockHenge.tmlalso registered for Biome Rainforest
+Successfully loaded template BlockHenge.tml with weight 2.
+template BrickHouse.tmlalso registered for Biome Hell
+template BrickHouse.tmlalso registered for Biome Extreme Hills Edge
+template BrickHouse.tmlalso registered for Biome JungleHills
+template BrickHouse.tmlalso registered for Biome Jungle
+template BrickHouse.tmlalso registered for Biome TaigaHills
+template BrickHouse.tmlalso registered for Biome Forest
+template BrickHouse.tmlalso registered for Biome ForestHills
+template BrickHouse.tmlalso registered for Biome Swampland
+template BrickHouse.tmlalso registered for Biome Extreme Hills
+template BrickHouse.tmlalso registered for Biome Taiga
+template BrickHouse.tmlalso registered for Biome Rainforest
+Successfully loaded template BrickHouse.tml with weight 2.
+template CastleModified.tmlalso registered for Biome Hell
+template CastleModified.tmlalso registered for Biome Extreme Hills Edge
+template CastleModified.tmlalso registered for Biome JungleHills
+template CastleModified.tmlalso registered for Biome Jungle
+template CastleModified.tmlalso registered for Biome TaigaHills
+template CastleModified.tmlalso registered for Biome Forest
+template CastleModified.tmlalso registered for Biome ForestHills
+template CastleModified.tmlalso registered for Biome Swampland
+template CastleModified.tmlalso registered for Biome Extreme Hills
+template CastleModified.tmlalso registered for Biome Taiga
+template CastleModified.tmlalso registered for Biome Rainforest
+Successfully loaded template CastleModified.tml with weight 1.
+template CastleModifiedRuined.tmlalso registered for Biome Hell
+template CastleModifiedRuined.tmlalso registered for Biome Extreme Hills Edge
+template CastleModifiedRuined.tmlalso registered for Biome JungleHills
+template CastleModifiedRuined.tmlalso registered for Biome Jungle
+template CastleModifiedRuined.tmlalso registered for Biome TaigaHills
+template CastleModifiedRuined.tmlalso registered for Biome Forest
+template CastleModifiedRuined.tmlalso registered for Biome ForestHills
+template CastleModifiedRuined.tmlalso registered for Biome Swampland
+template CastleModifiedRuined.tmlalso registered for Biome Extreme Hills
+template CastleModifiedRuined.tmlalso registered for Biome Taiga
+template CastleModifiedRuined.tmlalso registered for Biome Rainforest
+Successfully loaded template CastleModifiedRuined.tml with weight 1.
+template GateUnderGlass.tmlalso registered for Biome Hell
+template GateUnderGlass.tmlalso registered for Biome Extreme Hills Edge
+template GateUnderGlass.tmlalso registered for Biome JungleHills
+template GateUnderGlass.tmlalso registered for Biome Jungle
+template GateUnderGlass.tmlalso registered for Biome TaigaHills
+template GateUnderGlass.tmlalso registered for Biome Forest
+template GateUnderGlass.tmlalso registered for Biome ForestHills
+template GateUnderGlass.tmlalso registered for Biome Swampland
+template GateUnderGlass.tmlalso registered for Biome Extreme Hills
+template GateUnderGlass.tmlalso registered for Biome Taiga
+template GateUnderGlass.tmlalso registered for Biome Rainforest
+Successfully loaded template GateUnderGlass.tml with weight 4.
+template Gazebo.tmlalso registered for Biome Hell
+template Gazebo.tmlalso registered for Biome Extreme Hills Edge
+template Gazebo.tmlalso registered for Biome JungleHills
+template Gazebo.tmlalso registered for Biome Jungle
+template Gazebo.tmlalso registered for Biome TaigaHills
+template Gazebo.tmlalso registered for Biome Forest
+template Gazebo.tmlalso registered for Biome ForestHills
+template Gazebo.tmlalso registered for Biome Swampland
+template Gazebo.tmlalso registered for Biome Extreme Hills
+template Gazebo.tmlalso registered for Biome Taiga
+template Gazebo.tmlalso registered for Biome Rainforest
+Successfully loaded template Gazebo.tml with weight 4.
+template GraveyardHaunted.tmlalso registered for Biome Hell
+template GraveyardHaunted.tmlalso registered for Biome Extreme Hills Edge
+template GraveyardHaunted.tmlalso registered for Biome JungleHills
+template GraveyardHaunted.tmlalso registered for Biome Jungle
+template GraveyardHaunted.tmlalso registered for Biome TaigaHills
+template GraveyardHaunted.tmlalso registered for Biome Forest
+template GraveyardHaunted.tmlalso registered for Biome ForestHills
+template GraveyardHaunted.tmlalso registered for Biome Swampland
+template GraveyardHaunted.tmlalso registered for Biome Extreme Hills
+template GraveyardHaunted.tmlalso registered for Biome Taiga
+template GraveyardHaunted.tmlalso registered for Biome Rainforest
+Successfully loaded template GraveyardHaunted.tml with weight 3.
+template GuardHouse.tmlalso registered for Biome Hell
+template GuardHouse.tmlalso registered for Biome Extreme Hills Edge
+template GuardHouse.tmlalso registered for Biome JungleHills
+template GuardHouse.tmlalso registered for Biome Jungle
+template GuardHouse.tmlalso registered for Biome TaigaHills
+template GuardHouse.tmlalso registered for Biome Forest
+template GuardHouse.tmlalso registered for Biome ForestHills
+template GuardHouse.tmlalso registered for Biome Swampland
+template GuardHouse.tmlalso registered for Biome Extreme Hills
+template GuardHouse.tmlalso registered for Biome Taiga
+template GuardHouse.tmlalso registered for Biome Rainforest
+Successfully loaded template GuardHouse.tml with weight 2.
+template Guardian.tmlalso registered for Biome Hell
+template Guardian.tmlalso registered for Biome Extreme Hills Edge
+template Guardian.tmlalso registered for Biome JungleHills
+template Guardian.tmlalso registered for Biome Jungle
+template Guardian.tmlalso registered for Biome TaigaHills
+template Guardian.tmlalso registered for Biome Forest
+template Guardian.tmlalso registered for Biome ForestHills
+template Guardian.tmlalso registered for Biome Swampland
+template Guardian.tmlalso registered for Biome Extreme Hills
+template Guardian.tmlalso registered for Biome Taiga
+template Guardian.tmlalso registered for Biome Rainforest
+Successfully loaded template Guardian.tml with weight 1.
+template GuardianFull.tmlalso registered for Biome Hell
+template GuardianFull.tmlalso registered for Biome Extreme Hills Edge
+template GuardianFull.tmlalso registered for Biome JungleHills
+template GuardianFull.tmlalso registered for Biome Jungle
+template GuardianFull.tmlalso registered for Biome TaigaHills
+template GuardianFull.tmlalso registered for Biome Forest
+template GuardianFull.tmlalso registered for Biome ForestHills
+template GuardianFull.tmlalso registered for Biome Swampland
+template GuardianFull.tmlalso registered for Biome Extreme Hills
+template GuardianFull.tmlalso registered for Biome Taiga
+template GuardianFull.tmlalso registered for Biome Rainforest
+Successfully loaded template GuardianFull.tml with weight 1.
+template HutIntact.tmlalso registered for Biome Hell
+template HutIntact.tmlalso registered for Biome Extreme Hills Edge
+template HutIntact.tmlalso registered for Biome JungleHills
+template HutIntact.tmlalso registered for Biome Jungle
+template HutIntact.tmlalso registered for Biome TaigaHills
+template HutIntact.tmlalso registered for Biome Forest
+template HutIntact.tmlalso registered for Biome ForestHills
+template HutIntact.tmlalso registered for Biome Swampland
+template HutIntact.tmlalso registered for Biome Extreme Hills
+template HutIntact.tmlalso registered for Biome Taiga
+template HutIntact.tmlalso registered for Biome Rainforest
+Successfully loaded template HutIntact.tml with weight 1.
+template HutRuined.tmlalso registered for Biome Hell
+template HutRuined.tmlalso registered for Biome Extreme Hills Edge
+template HutRuined.tmlalso registered for Biome JungleHills
+template HutRuined.tmlalso registered for Biome Jungle
+template HutRuined.tmlalso registered for Biome TaigaHills
+template HutRuined.tmlalso registered for Biome Forest
+template HutRuined.tmlalso registered for Biome ForestHills
+template HutRuined.tmlalso registered for Biome Swampland
+template HutRuined.tmlalso registered for Biome Extreme Hills
+template HutRuined.tmlalso registered for Biome Taiga
+template HutRuined.tmlalso registered for Biome Rainforest
+Successfully loaded template HutRuined.tml with weight 2.
+template LargeBrickHouse.tmlalso registered for Biome Hell
+template LargeBrickHouse.tmlalso registered for Biome Extreme Hills Edge
+template LargeBrickHouse.tmlalso registered for Biome JungleHills
+template LargeBrickHouse.tmlalso registered for Biome Jungle
+template LargeBrickHouse.tmlalso registered for Biome TaigaHills
+template LargeBrickHouse.tmlalso registered for Biome Forest
+template LargeBrickHouse.tmlalso registered for Biome ForestHills
+template LargeBrickHouse.tmlalso registered for Biome Swampland
+template LargeBrickHouse.tmlalso registered for Biome Extreme Hills
+template LargeBrickHouse.tmlalso registered for Biome Taiga
+template LargeBrickHouse.tmlalso registered for Biome Rainforest
+Successfully loaded template LargeBrickHouse.tml with weight 6.
+template LargeStoneHouse.tmlalso registered for Biome Hell
+template LargeStoneHouse.tmlalso registered for Biome Extreme Hills Edge
+template LargeStoneHouse.tmlalso registered for Biome JungleHills
+template LargeStoneHouse.tmlalso registered for Biome Jungle
+template LargeStoneHouse.tmlalso registered for Biome TaigaHills
+template LargeStoneHouse.tmlalso registered for Biome Forest
+template LargeStoneHouse.tmlalso registered for Biome ForestHills
+template LargeStoneHouse.tmlalso registered for Biome Swampland
+template LargeStoneHouse.tmlalso registered for Biome Extreme Hills
+template LargeStoneHouse.tmlalso registered for Biome Taiga
+template LargeStoneHouse.tmlalso registered for Biome Rainforest
+Successfully loaded template LargeStoneHouse.tml with weight 8.
+template LargeStoneHouseWBasement.tmlalso registered for Biome Hell
+template LargeStoneHouseWBasement.tmlalso registered for Biome Extreme Hills Edge
+template LargeStoneHouseWBasement.tmlalso registered for Biome JungleHills
+template LargeStoneHouseWBasement.tmlalso registered for Biome Jungle
+template LargeStoneHouseWBasement.tmlalso registered for Biome TaigaHills
+template LargeStoneHouseWBasement.tmlalso registered for Biome Forest
+template LargeStoneHouseWBasement.tmlalso registered for Biome ForestHills
+template LargeStoneHouseWBasement.tmlalso registered for Biome Swampland
+template LargeStoneHouseWBasement.tmlalso registered for Biome Extreme Hills
+template LargeStoneHouseWBasement.tmlalso registered for Biome Taiga
+template LargeStoneHouseWBasement.tmlalso registered for Biome Rainforest
+Successfully loaded template LargeStoneHouseWBasement.tml with weight 8.
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome Hell
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome Extreme Hills Edge
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome JungleHills
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome Jungle
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome TaigaHills
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome Forest
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome ForestHills
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome Swampland
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome Extreme Hills
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome Taiga
+template LargeStoneTwoStoryHouse.tmlalso registered for Biome Rainforest
+Successfully loaded template LargeStoneTwoStoryHouse.tml with weight 8.
+template Mausoleum.tmlalso registered for Biome Hell
+template Mausoleum.tmlalso registered for Biome Extreme Hills Edge
+template Mausoleum.tmlalso registered for Biome JungleHills
+template Mausoleum.tmlalso registered for Biome Jungle
+template Mausoleum.tmlalso registered for Biome TaigaHills
+template Mausoleum.tmlalso registered for Biome Forest
+template Mausoleum.tmlalso registered for Biome ForestHills
+template Mausoleum.tmlalso registered for Biome Swampland
+template Mausoleum.tmlalso registered for Biome Extreme Hills
+template Mausoleum.tmlalso registered for Biome Taiga
+template Mausoleum.tmlalso registered for Biome Rainforest
+Successfully loaded template Mausoleum.tml with weight 10.
+template OldFoundation.tmlalso registered for Biome Hell
+template OldFoundation.tmlalso registered for Biome Extreme Hills Edge
+template OldFoundation.tmlalso registered for Biome JungleHills
+template OldFoundation.tmlalso registered for Biome Jungle
+template OldFoundation.tmlalso registered for Biome TaigaHills
+template OldFoundation.tmlalso registered for Biome Forest
+template OldFoundation.tmlalso registered for Biome ForestHills
+template OldFoundation.tmlalso registered for Biome Swampland
+template OldFoundation.tmlalso registered for Biome Extreme Hills
+template OldFoundation.tmlalso registered for Biome Taiga
+template OldFoundation.tmlalso registered for Biome Rainforest
+Successfully loaded template OldFoundation.tml with weight 1.
+template OreSpire.tmlalso registered for Biome Hell
+template OreSpire.tmlalso registered for Biome DesertHills
+template OreSpire.tmlalso registered for Biome JungleHills
+template OreSpire.tmlalso registered for Biome Jungle
+template OreSpire.tmlalso registered for Biome TaigaHills
+template OreSpire.tmlalso registered for Biome Forest
+template OreSpire.tmlalso registered for Biome Extreme Hills
+template OreSpire.tmlalso registered for Biome Desert
+template OreSpire.tmlalso registered for Biome Extreme Hills Edge
+template OreSpire.tmlalso registered for Biome ForestHills
+template OreSpire.tmlalso registered for Biome Swampland
+template OreSpire.tmlalso registered for Biome Taiga
+template OreSpire.tmlalso registered for Biome Rainforest
+Successfully loaded template OreSpire.tml with weight 1.
+template Outcrop4_good.tmlalso registered for Biome Hell
+template Outcrop4_good.tmlalso registered for Biome Extreme Hills Edge
+template Outcrop4_good.tmlalso registered for Biome JungleHills
+template Outcrop4_good.tmlalso registered for Biome Jungle
+template Outcrop4_good.tmlalso registered for Biome TaigaHills
+template Outcrop4_good.tmlalso registered for Biome Forest
+template Outcrop4_good.tmlalso registered for Biome ForestHills
+template Outcrop4_good.tmlalso registered for Biome Swampland
+template Outcrop4_good.tmlalso registered for Biome Extreme Hills
+template Outcrop4_good.tmlalso registered for Biome Taiga
+template Outcrop4_good.tmlalso registered for Biome Rainforest
+Successfully loaded template Outcrop4_good.tml with weight 2.
+template PillarBase.tmlalso registered for Biome Hell
+template PillarBase.tmlalso registered for Biome Extreme Hills Edge
+template PillarBase.tmlalso registered for Biome JungleHills
+template PillarBase.tmlalso registered for Biome Jungle
+template PillarBase.tmlalso registered for Biome TaigaHills
+template PillarBase.tmlalso registered for Biome Forest
+template PillarBase.tmlalso registered for Biome ForestHills
+template PillarBase.tmlalso registered for Biome Swampland
+template PillarBase.tmlalso registered for Biome Extreme Hills
+template PillarBase.tmlalso registered for Biome Taiga
+template PillarBase.tmlalso registered for Biome Rainforest
+Successfully loaded template PillarBase.tml with weight 8.
+template Piston-BunkerUnderground.tmlalso registered for Biome Hell
+template Piston-BunkerUnderground.tmlalso registered for Biome Extreme Hills Edge
+template Piston-BunkerUnderground.tmlalso registered for Biome JungleHills
+template Piston-BunkerUnderground.tmlalso registered for Biome Jungle
+template Piston-BunkerUnderground.tmlalso registered for Biome TaigaHills
+template Piston-BunkerUnderground.tmlalso registered for Biome Forest
+template Piston-BunkerUnderground.tmlalso registered for Biome ForestHills
+template Piston-BunkerUnderground.tmlalso registered for Biome Swampland
+template Piston-BunkerUnderground.tmlalso registered for Biome Extreme Hills
+template Piston-BunkerUnderground.tmlalso registered for Biome Taiga
+template Piston-BunkerUnderground.tmlalso registered for Biome Rainforest
+Successfully loaded template Piston-BunkerUnderground.tml with weight 1.
+template Piston-CreeperRoom.tmlalso registered for Biome Hell
+template Piston-CreeperRoom.tmlalso registered for Biome Extreme Hills Edge
+template Piston-CreeperRoom.tmlalso registered for Biome JungleHills
+template Piston-CreeperRoom.tmlalso registered for Biome Jungle
+template Piston-CreeperRoom.tmlalso registered for Biome TaigaHills
+template Piston-CreeperRoom.tmlalso registered for Biome Forest
+template Piston-CreeperRoom.tmlalso registered for Biome ForestHills
+template Piston-CreeperRoom.tmlalso registered for Biome Swampland
+template Piston-CreeperRoom.tmlalso registered for Biome Extreme Hills
+template Piston-CreeperRoom.tmlalso registered for Biome Taiga
+template Piston-CreeperRoom.tmlalso registered for Biome Rainforest
+Successfully loaded template Piston-CreeperRoom.tml with weight 1.
+template Piston-LavaTrap.tmlalso registered for Biome Hell
+template Piston-LavaTrap.tmlalso registered for Biome Extreme Hills Edge
+template Piston-LavaTrap.tmlalso registered for Biome JungleHills
+template Piston-LavaTrap.tmlalso registered for Biome Jungle
+template Piston-LavaTrap.tmlalso registered for Biome TaigaHills
+template Piston-LavaTrap.tmlalso registered for Biome Forest
+template Piston-LavaTrap.tmlalso registered for Biome ForestHills
+template Piston-LavaTrap.tmlalso registered for Biome Swampland
+template Piston-LavaTrap.tmlalso registered for Biome Extreme Hills
+template Piston-LavaTrap.tmlalso registered for Biome Taiga
+template Piston-LavaTrap.tmlalso registered for Biome Rainforest
+Successfully loaded template Piston-LavaTrap.tml with weight 1.
+template PortalShrine.tmlalso registered for Biome Hell
+template PortalShrine.tmlalso registered for Biome Extreme Hills Edge
+template PortalShrine.tmlalso registered for Biome JungleHills
+template PortalShrine.tmlalso registered for Biome Jungle
+template PortalShrine.tmlalso registered for Biome TaigaHills
+template PortalShrine.tmlalso registered for Biome Forest
+template PortalShrine.tmlalso registered for Biome ForestHills
+template PortalShrine.tmlalso registered for Biome Swampland
+template PortalShrine.tmlalso registered for Biome Extreme Hills
+template PortalShrine.tmlalso registered for Biome Taiga
+template PortalShrine.tmlalso registered for Biome Rainforest
+Successfully loaded template PortalShrine.tml with weight 2.
+template RuinedTripleFountain.tmlalso registered for Biome Hell
+template RuinedTripleFountain.tmlalso registered for Biome Extreme Hills Edge
+template RuinedTripleFountain.tmlalso registered for Biome JungleHills
+template RuinedTripleFountain.tmlalso registered for Biome Jungle
+template RuinedTripleFountain.tmlalso registered for Biome TaigaHills
+template RuinedTripleFountain.tmlalso registered for Biome Forest
+template RuinedTripleFountain.tmlalso registered for Biome ForestHills
+template RuinedTripleFountain.tmlalso registered for Biome Swampland
+template RuinedTripleFountain.tmlalso registered for Biome Extreme Hills
+template RuinedTripleFountain.tmlalso registered for Biome Taiga
+template RuinedTripleFountain.tmlalso registered for Biome Rainforest
+Successfully loaded template RuinedTripleFountain.tml with weight 1.
+template ShortTower.tmlalso registered for Biome Hell
+template ShortTower.tmlalso registered for Biome Extreme Hills Edge
+template ShortTower.tmlalso registered for Biome JungleHills
+template ShortTower.tmlalso registered for Biome Jungle
+template ShortTower.tmlalso registered for Biome TaigaHills
+template ShortTower.tmlalso registered for Biome Forest
+template ShortTower.tmlalso registered for Biome ForestHills
+template ShortTower.tmlalso registered for Biome Swampland
+template ShortTower.tmlalso registered for Biome Extreme Hills
+template ShortTower.tmlalso registered for Biome Taiga
+template ShortTower.tmlalso registered for Biome Rainforest
+Successfully loaded template ShortTower.tml with weight 8.
+template SmallWell.tmlalso registered for Biome Hell
+template SmallWell.tmlalso registered for Biome Extreme Hills Edge
+template SmallWell.tmlalso registered for Biome JungleHills
+template SmallWell.tmlalso registered for Biome Jungle
+template SmallWell.tmlalso registered for Biome TaigaHills
+template SmallWell.tmlalso registered for Biome Forest
+template SmallWell.tmlalso registered for Biome ForestHills
+template SmallWell.tmlalso registered for Biome Swampland
+template SmallWell.tmlalso registered for Biome Extreme Hills
+template SmallWell.tmlalso registered for Biome Taiga
+template SmallWell.tmlalso registered for Biome Rainforest
+Successfully loaded template SmallWell.tml with weight 2.
+template SpearStatue.tmlalso registered for Biome Hell
+template SpearStatue.tmlalso registered for Biome Extreme Hills Edge
+template SpearStatue.tmlalso registered for Biome JungleHills
+template SpearStatue.tmlalso registered for Biome Jungle
+template SpearStatue.tmlalso registered for Biome TaigaHills
+template SpearStatue.tmlalso registered for Biome Forest
+template SpearStatue.tmlalso registered for Biome ForestHills
+template SpearStatue.tmlalso registered for Biome Swampland
+template SpearStatue.tmlalso registered for Biome Extreme Hills
+template SpearStatue.tmlalso registered for Biome Taiga
+template SpearStatue.tmlalso registered for Biome Rainforest
+Successfully loaded template SpearStatue.tml with weight 1.
+template Sphere.tmlalso registered for Biome Hell
+template Sphere.tmlalso registered for Biome Extreme Hills Edge
+template Sphere.tmlalso registered for Biome JungleHills
+template Sphere.tmlalso registered for Biome Jungle
+template Sphere.tmlalso registered for Biome TaigaHills
+template Sphere.tmlalso registered for Biome Forest
+template Sphere.tmlalso registered for Biome ForestHills
+template Sphere.tmlalso registered for Biome Swampland
+template Sphere.tmlalso registered for Biome Extreme Hills
+template Sphere.tmlalso registered for Biome Taiga
+template Sphere.tmlalso registered for Biome Rainforest
+Successfully loaded template Sphere.tml with weight 16.
+template StoneHenge.tmlalso registered for Biome Hell
+template StoneHenge.tmlalso registered for Biome Extreme Hills Edge
+template StoneHenge.tmlalso registered for Biome JungleHills
+template StoneHenge.tmlalso registered for Biome Jungle
+template StoneHenge.tmlalso registered for Biome TaigaHills
+template StoneHenge.tmlalso registered for Biome Forest
+template StoneHenge.tmlalso registered for Biome ForestHills
+template StoneHenge.tmlalso registered for Biome Swampland
+template StoneHenge.tmlalso registered for Biome Extreme Hills
+template StoneHenge.tmlalso registered for Biome Taiga
+template StoneHenge.tmlalso registered for Biome Rainforest
+Successfully loaded template StoneHenge.tml with weight 1.
+template StoneHouse.tmlalso registered for Biome Hell
+template StoneHouse.tmlalso registered for Biome Extreme Hills Edge
+template StoneHouse.tmlalso registered for Biome JungleHills
+template StoneHouse.tmlalso registered for Biome Jungle
+template StoneHouse.tmlalso registered for Biome TaigaHills
+template StoneHouse.tmlalso registered for Biome Forest
+template StoneHouse.tmlalso registered for Biome ForestHills
+template StoneHouse.tmlalso registered for Biome Swampland
+template StoneHouse.tmlalso registered for Biome Extreme Hills
+template StoneHouse.tmlalso registered for Biome Taiga
+template StoneHouse.tmlalso registered for Biome Rainforest
+Successfully loaded template StoneHouse.tml with weight 4.
+template StoneHouseM.tmlalso registered for Biome Hell
+template StoneHouseM.tmlalso registered for Biome Extreme Hills Edge
+template StoneHouseM.tmlalso registered for Biome JungleHills
+template StoneHouseM.tmlalso registered for Biome Jungle
+template StoneHouseM.tmlalso registered for Biome TaigaHills
+template StoneHouseM.tmlalso registered for Biome Forest
+template StoneHouseM.tmlalso registered for Biome ForestHills
+template StoneHouseM.tmlalso registered for Biome Swampland
+template StoneHouseM.tmlalso registered for Biome Extreme Hills
+template StoneHouseM.tmlalso registered for Biome Taiga
+template StoneHouseM.tmlalso registered for Biome Rainforest
+Successfully loaded template StoneHouseM.tml with weight 1.
+template StoneHouseMruined.tmlalso registered for Biome Hell
+template StoneHouseMruined.tmlalso registered for Biome Extreme Hills Edge
+template StoneHouseMruined.tmlalso registered for Biome JungleHills
+template StoneHouseMruined.tmlalso registered for Biome Jungle
+template StoneHouseMruined.tmlalso registered for Biome TaigaHills
+template StoneHouseMruined.tmlalso registered for Biome Forest
+template StoneHouseMruined.tmlalso registered for Biome ForestHills
+template StoneHouseMruined.tmlalso registered for Biome Swampland
+template StoneHouseMruined.tmlalso registered for Biome Extreme Hills
+template StoneHouseMruined.tmlalso registered for Biome Taiga
+template StoneHouseMruined.tmlalso registered for Biome Rainforest
+Successfully loaded template StoneHouseMruined.tml with weight 1.
+template StoneHouse_Intact.tmlalso registered for Biome Ice Plains
+template StoneHouse_Intact.tmlalso registered for Biome FrozenOcean
+Successfully loaded template StoneHouse_Intact.tml with weight 1.
+template StoneHouse_Ruined.tmlalso registered for Biome Hell
+template StoneHouse_Ruined.tmlalso registered for Biome Extreme Hills Edge
+template StoneHouse_Ruined.tmlalso registered for Biome JungleHills
+template StoneHouse_Ruined.tmlalso registered for Biome Jungle
+template StoneHouse_Ruined.tmlalso registered for Biome TaigaHills
+template StoneHouse_Ruined.tmlalso registered for Biome Forest
+template StoneHouse_Ruined.tmlalso registered for Biome ForestHills
+template StoneHouse_Ruined.tmlalso registered for Biome Swampland
+template StoneHouse_Ruined.tmlalso registered for Biome Extreme Hills
+template StoneHouse_Ruined.tmlalso registered for Biome Taiga
+template StoneHouse_Ruined.tmlalso registered for Biome Rainforest
+Successfully loaded template StoneHouse_Ruined.tml with weight 1.
+template TallTower.tmlalso registered for Biome Hell
+template TallTower.tmlalso registered for Biome Extreme Hills Edge
+template TallTower.tmlalso registered for Biome JungleHills
+template TallTower.tmlalso registered for Biome Jungle
+template TallTower.tmlalso registered for Biome TaigaHills
+template TallTower.tmlalso registered for Biome Forest
+template TallTower.tmlalso registered for Biome ForestHills
+template TallTower.tmlalso registered for Biome Swampland
+template TallTower.tmlalso registered for Biome Extreme Hills
+template TallTower.tmlalso registered for Biome Taiga
+template TallTower.tmlalso registered for Biome Rainforest
+Successfully loaded template TallTower.tml with weight 8.
+template TinyFarmField.tmlalso registered for Biome Hell
+template TinyFarmField.tmlalso registered for Biome Extreme Hills Edge
+template TinyFarmField.tmlalso registered for Biome JungleHills
+template TinyFarmField.tmlalso registered for Biome Jungle
+template TinyFarmField.tmlalso registered for Biome TaigaHills
+template TinyFarmField.tmlalso registered for Biome Forest
+template TinyFarmField.tmlalso registered for Biome ForestHills
+template TinyFarmField.tmlalso registered for Biome Swampland
+template TinyFarmField.tmlalso registered for Biome Extreme Hills
+template TinyFarmField.tmlalso registered for Biome Taiga
+template TinyFarmField.tmlalso registered for Biome Rainforest
+Successfully loaded template TinyFarmField.tml with weight 3.
+template Tower-edit.tmlalso registered for Biome Hell
+template Tower-edit.tmlalso registered for Biome Extreme Hills Edge
+template Tower-edit.tmlalso registered for Biome JungleHills
+template Tower-edit.tmlalso registered for Biome Jungle
+template Tower-edit.tmlalso registered for Biome TaigaHills
+template Tower-edit.tmlalso registered for Biome Forest
+template Tower-edit.tmlalso registered for Biome ForestHills
+template Tower-edit.tmlalso registered for Biome Swampland
+template Tower-edit.tmlalso registered for Biome Extreme Hills
+template Tower-edit.tmlalso registered for Biome Taiga
+template Tower-edit.tmlalso registered for Biome Rainforest
+Successfully loaded template Tower-edit.tml with weight 4.
+template Tower-ruined-short.tmlalso registered for Biome Hell
+template Tower-ruined-short.tmlalso registered for Biome Extreme Hills Edge
+template Tower-ruined-short.tmlalso registered for Biome JungleHills
+template Tower-ruined-short.tmlalso registered for Biome Jungle
+template Tower-ruined-short.tmlalso registered for Biome TaigaHills
+template Tower-ruined-short.tmlalso registered for Biome Forest
+template Tower-ruined-short.tmlalso registered for Biome ForestHills
+template Tower-ruined-short.tmlalso registered for Biome Swampland
+template Tower-ruined-short.tmlalso registered for Biome Extreme Hills
+template Tower-ruined-short.tmlalso registered for Biome Taiga
+template Tower-ruined-short.tmlalso registered for Biome Rainforest
+Successfully loaded template Tower-ruined-short.tml with weight 6.
+template TowerEasy.tmlalso registered for Biome Hell
+template TowerEasy.tmlalso registered for Biome Extreme Hills Edge
+template TowerEasy.tmlalso registered for Biome JungleHills
+template TowerEasy.tmlalso registered for Biome Jungle
+template TowerEasy.tmlalso registered for Biome TaigaHills
+template TowerEasy.tmlalso registered for Biome Forest
+template TowerEasy.tmlalso registered for Biome ForestHills
+template TowerEasy.tmlalso registered for Biome Swampland
+template TowerEasy.tmlalso registered for Biome Extreme Hills
+template TowerEasy.tmlalso registered for Biome Taiga
+template TowerEasy.tmlalso registered for Biome Rainforest
+Successfully loaded template TowerEasy.tml with weight 3.
+template TowerMedium.tmlalso registered for Biome Hell
+template TowerMedium.tmlalso registered for Biome JungleHills
+template TowerMedium.tmlalso registered for Biome Jungle
+template TowerMedium.tmlalso registered for Biome TaigaHills
+template TowerMedium.tmlalso registered for Biome Forest
+template TowerMedium.tmlalso registered for Biome Extreme Hills
+template TowerMedium.tmlalso registered for Biome Extreme Hills Edge
+template TowerMedium.tmlalso registered for Biome ForestHills
+template TowerMedium.tmlalso registered for Biome Swampland
+template TowerMedium.tmlalso registered for Biome Taiga
+template TowerMedium.tmlalso registered for Biome Rainforest
+Successfully loaded template TowerMedium.tml with weight 2.
+template VanillaVillageChurch-p.tmlalso registered for Biome Hell
+template VanillaVillageChurch-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageChurch-p.tmlalso registered for Biome JungleHills
+template VanillaVillageChurch-p.tmlalso registered for Biome Jungle
+template VanillaVillageChurch-p.tmlalso registered for Biome TaigaHills
+template VanillaVillageChurch-p.tmlalso registered for Biome Forest
+template VanillaVillageChurch-p.tmlalso registered for Biome ForestHills
+template VanillaVillageChurch-p.tmlalso registered for Biome Swampland
+template VanillaVillageChurch-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillageChurch-p.tmlalso registered for Biome Taiga
+template VanillaVillageChurch-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageChurch-p.tml with weight 1.
+template VanillaVillageChurch-r.tmlalso registered for Biome Hell
+template VanillaVillageChurch-r.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageChurch-r.tmlalso registered for Biome JungleHills
+template VanillaVillageChurch-r.tmlalso registered for Biome Jungle
+template VanillaVillageChurch-r.tmlalso registered for Biome TaigaHills
+template VanillaVillageChurch-r.tmlalso registered for Biome Forest
+template VanillaVillageChurch-r.tmlalso registered for Biome ForestHills
+template VanillaVillageChurch-r.tmlalso registered for Biome Swampland
+template VanillaVillageChurch-r.tmlalso registered for Biome Extreme Hills
+template VanillaVillageChurch-r.tmlalso registered for Biome Taiga
+template VanillaVillageChurch-r.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageChurch-r.tml with weight 2.
+template VanillaVillageCobble-p.tmlalso registered for Biome Hell
+template VanillaVillageCobble-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageCobble-p.tmlalso registered for Biome JungleHills
+template VanillaVillageCobble-p.tmlalso registered for Biome Jungle
+template VanillaVillageCobble-p.tmlalso registered for Biome TaigaHills
+template VanillaVillageCobble-p.tmlalso registered for Biome Forest
+template VanillaVillageCobble-p.tmlalso registered for Biome ForestHills
+template VanillaVillageCobble-p.tmlalso registered for Biome Swampland
+template VanillaVillageCobble-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillageCobble-p.tmlalso registered for Biome Taiga
+template VanillaVillageCobble-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageCobble-p.tml with weight 1.
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome Hell
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome JungleHills
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome Jungle
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome TaigaHills
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome Forest
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome ForestHills
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome Swampland
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome Extreme Hills
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome Taiga
+template VanillaVillageCobbleHouse-r.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageCobbleHouse-r.tml with weight 2.
+template VanillaVillageEmpty-p.tmlalso registered for Biome Hell
+template VanillaVillageEmpty-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageEmpty-p.tmlalso registered for Biome JungleHills
+template VanillaVillageEmpty-p.tmlalso registered for Biome Jungle
+template VanillaVillageEmpty-p.tmlalso registered for Biome TaigaHills
+template VanillaVillageEmpty-p.tmlalso registered for Biome Forest
+template VanillaVillageEmpty-p.tmlalso registered for Biome ForestHills
+template VanillaVillageEmpty-p.tmlalso registered for Biome Swampland
+template VanillaVillageEmpty-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillageEmpty-p.tmlalso registered for Biome Taiga
+template VanillaVillageEmpty-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageEmpty-p.tml with weight 1.
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome Hell
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome JungleHills
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome Jungle
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome TaigaHills
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome Forest
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome ForestHills
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome Swampland
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome Extreme Hills
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome Taiga
+template VanillaVillageEmptyHouse-r.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageEmptyHouse-r.tml with weight 2.
+template VanillaVillageForge-p.tmlalso registered for Biome Hell
+template VanillaVillageForge-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageForge-p.tmlalso registered for Biome JungleHills
+template VanillaVillageForge-p.tmlalso registered for Biome Jungle
+template VanillaVillageForge-p.tmlalso registered for Biome TaigaHills
+template VanillaVillageForge-p.tmlalso registered for Biome Forest
+template VanillaVillageForge-p.tmlalso registered for Biome ForestHills
+template VanillaVillageForge-p.tmlalso registered for Biome Swampland
+template VanillaVillageForge-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillageForge-p.tmlalso registered for Biome Taiga
+template VanillaVillageForge-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageForge-p.tml with weight 1.
+template VanillaVillageForge-r.tmlalso registered for Biome Hell
+template VanillaVillageForge-r.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageForge-r.tmlalso registered for Biome JungleHills
+template VanillaVillageForge-r.tmlalso registered for Biome Jungle
+template VanillaVillageForge-r.tmlalso registered for Biome TaigaHills
+template VanillaVillageForge-r.tmlalso registered for Biome Forest
+template VanillaVillageForge-r.tmlalso registered for Biome ForestHills
+template VanillaVillageForge-r.tmlalso registered for Biome Swampland
+template VanillaVillageForge-r.tmlalso registered for Biome Extreme Hills
+template VanillaVillageForge-r.tmlalso registered for Biome Taiga
+template VanillaVillageForge-r.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageForge-r.tml with weight 2.
+template VanillaVillageHut-p.tmlalso registered for Biome Hell
+template VanillaVillageHut-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageHut-p.tmlalso registered for Biome JungleHills
+template VanillaVillageHut-p.tmlalso registered for Biome Jungle
+template VanillaVillageHut-p.tmlalso registered for Biome TaigaHills
+template VanillaVillageHut-p.tmlalso registered for Biome Forest
+template VanillaVillageHut-p.tmlalso registered for Biome ForestHills
+template VanillaVillageHut-p.tmlalso registered for Biome Swampland
+template VanillaVillageHut-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillageHut-p.tmlalso registered for Biome Taiga
+template VanillaVillageHut-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageHut-p.tml with weight 1.
+template VanillaVillageHut-r.tmlalso registered for Biome Hell
+template VanillaVillageHut-r.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageHut-r.tmlalso registered for Biome JungleHills
+template VanillaVillageHut-r.tmlalso registered for Biome Jungle
+template VanillaVillageHut-r.tmlalso registered for Biome TaigaHills
+template VanillaVillageHut-r.tmlalso registered for Biome Forest
+template VanillaVillageHut-r.tmlalso registered for Biome ForestHills
+template VanillaVillageHut-r.tmlalso registered for Biome Swampland
+template VanillaVillageHut-r.tmlalso registered for Biome Extreme Hills
+template VanillaVillageHut-r.tmlalso registered for Biome Taiga
+template VanillaVillageHut-r.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageHut-r.tml with weight 2.
+template VanillaVillageLadder-p.tmlalso registered for Biome Hell
+template VanillaVillageLadder-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageLadder-p.tmlalso registered for Biome JungleHills
+template VanillaVillageLadder-p.tmlalso registered for Biome Jungle
+template VanillaVillageLadder-p.tmlalso registered for Biome TaigaHills
+template VanillaVillageLadder-p.tmlalso registered for Biome Forest
+template VanillaVillageLadder-p.tmlalso registered for Biome ForestHills
+template VanillaVillageLadder-p.tmlalso registered for Biome Swampland
+template VanillaVillageLadder-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillageLadder-p.tmlalso registered for Biome Taiga
+template VanillaVillageLadder-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageLadder-p.tml with weight 1.
+template VanillaVillageLibrary-p.tmlalso registered for Biome Hell
+template VanillaVillageLibrary-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageLibrary-p.tmlalso registered for Biome JungleHills
+template VanillaVillageLibrary-p.tmlalso registered for Biome Jungle
+template VanillaVillageLibrary-p.tmlalso registered for Biome TaigaHills
+template VanillaVillageLibrary-p.tmlalso registered for Biome Forest
+template VanillaVillageLibrary-p.tmlalso registered for Biome ForestHills
+template VanillaVillageLibrary-p.tmlalso registered for Biome Swampland
+template VanillaVillageLibrary-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillageLibrary-p.tmlalso registered for Biome Taiga
+template VanillaVillageLibrary-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageLibrary-p.tml with weight 1.
+template VanillaVillagePig-p.tmlalso registered for Biome Hell
+template VanillaVillagePig-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillagePig-p.tmlalso registered for Biome JungleHills
+template VanillaVillagePig-p.tmlalso registered for Biome Jungle
+template VanillaVillagePig-p.tmlalso registered for Biome TaigaHills
+template VanillaVillagePig-p.tmlalso registered for Biome Forest
+template VanillaVillagePig-p.tmlalso registered for Biome ForestHills
+template VanillaVillagePig-p.tmlalso registered for Biome Swampland
+template VanillaVillagePig-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillagePig-p.tmlalso registered for Biome Taiga
+template VanillaVillagePig-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillagePig-p.tml with weight 1.
+template VanillaVillageWell-p.tmlalso registered for Biome Hell
+template VanillaVillageWell-p.tmlalso registered for Biome Extreme Hills Edge
+template VanillaVillageWell-p.tmlalso registered for Biome JungleHills
+template VanillaVillageWell-p.tmlalso registered for Biome Jungle
+template VanillaVillageWell-p.tmlalso registered for Biome TaigaHills
+template VanillaVillageWell-p.tmlalso registered for Biome Forest
+template VanillaVillageWell-p.tmlalso registered for Biome ForestHills
+template VanillaVillageWell-p.tmlalso registered for Biome Swampland
+template VanillaVillageWell-p.tmlalso registered for Biome Extreme Hills
+template VanillaVillageWell-p.tmlalso registered for Biome Taiga
+template VanillaVillageWell-p.tmlalso registered for Biome Rainforest
+Successfully loaded template VanillaVillageWell-p.tml with weight 2.
+template WatchtowerIntact.tmlalso registered for Biome Hell
+template WatchtowerIntact.tmlalso registered for Biome Extreme Hills Edge
+template WatchtowerIntact.tmlalso registered for Biome JungleHills
+template WatchtowerIntact.tmlalso registered for Biome Jungle
+template WatchtowerIntact.tmlalso registered for Biome TaigaHills
+template WatchtowerIntact.tmlalso registered for Biome Forest
+template WatchtowerIntact.tmlalso registered for Biome ForestHills
+template WatchtowerIntact.tmlalso registered for Biome Swampland
+template WatchtowerIntact.tmlalso registered for Biome Extreme Hills
+template WatchtowerIntact.tmlalso registered for Biome Taiga
+template WatchtowerIntact.tmlalso registered for Biome Rainforest
+Successfully loaded template WatchtowerIntact.tml with weight 1.
+template WatchtowerRuined.tmlalso registered for Biome Hell
+template WatchtowerRuined.tmlalso registered for Biome Extreme Hills Edge
+template WatchtowerRuined.tmlalso registered for Biome JungleHills
+template WatchtowerRuined.tmlalso registered for Biome Jungle
+template WatchtowerRuined.tmlalso registered for Biome TaigaHills
+template WatchtowerRuined.tmlalso registered for Biome Forest
+template WatchtowerRuined.tmlalso registered for Biome ForestHills
+template WatchtowerRuined.tmlalso registered for Biome Swampland
+template WatchtowerRuined.tmlalso registered for Biome Extreme Hills
+template WatchtowerRuined.tmlalso registered for Biome Taiga
+template WatchtowerRuined.tmlalso registered for Biome Rainforest
+Successfully loaded template WatchtowerRuined.tml with weight 3.
+template WaterTrapRoom.tmlalso registered for Biome Hell
+template WaterTrapRoom.tmlalso registered for Biome Extreme Hills Edge
+template WaterTrapRoom.tmlalso registered for Biome JungleHills
+template WaterTrapRoom.tmlalso registered for Biome Jungle
+template WaterTrapRoom.tmlalso registered for Biome TaigaHills
+template WaterTrapRoom.tmlalso registered for Biome Forest
+template WaterTrapRoom.tmlalso registered for Biome ForestHills
+template WaterTrapRoom.tmlalso registered for Biome Swampland
+template WaterTrapRoom.tmlalso registered for Biome Extreme Hills
+template WaterTrapRoom.tmlalso registered for Biome Taiga
+template WaterTrapRoom.tmlalso registered for Biome Rainforest
+Successfully loaded template WaterTrapRoom.tml with weight 1.
+template WoodHouse.tmlalso registered for Biome Hell
+template WoodHouse.tmlalso registered for Biome Extreme Hills Edge
+template WoodHouse.tmlalso registered for Biome JungleHills
+template WoodHouse.tmlalso registered for Biome Jungle
+template WoodHouse.tmlalso registered for Biome TaigaHills
+template WoodHouse.tmlalso registered for Biome Forest
+template WoodHouse.tmlalso registered for Biome ForestHills
+template WoodHouse.tmlalso registered for Biome Swampland
+template WoodHouse.tmlalso registered for Biome Extreme Hills
+template WoodHouse.tmlalso registered for Biome Taiga
+template WoodHouse.tmlalso registered for Biome Rainforest
+Successfully loaded template WoodHouse.tml with weight 2.
+template WoodHouse2_Intact.tmlalso registered for Biome Hell
+template WoodHouse2_Intact.tmlalso registered for Biome Extreme Hills Edge
+template WoodHouse2_Intact.tmlalso registered for Biome JungleHills
+template WoodHouse2_Intact.tmlalso registered for Biome Jungle
+template WoodHouse2_Intact.tmlalso registered for Biome TaigaHills
+template WoodHouse2_Intact.tmlalso registered for Biome Forest
+template WoodHouse2_Intact.tmlalso registered for Biome ForestHills
+template WoodHouse2_Intact.tmlalso registered for Biome Swampland
+template WoodHouse2_Intact.tmlalso registered for Biome Extreme Hills
+template WoodHouse2_Intact.tmlalso registered for Biome Taiga
+template WoodHouse2_Intact.tmlalso registered for Biome Rainforest
+Successfully loaded template WoodHouse2_Intact.tml with weight 2.
+template WoodHouse2_Ruined.tmlalso registered for Biome Hell
+template WoodHouse2_Ruined.tmlalso registered for Biome Extreme Hills Edge
+template WoodHouse2_Ruined.tmlalso registered for Biome JungleHills
+template WoodHouse2_Ruined.tmlalso registered for Biome Jungle
+template WoodHouse2_Ruined.tmlalso registered for Biome TaigaHills
+template WoodHouse2_Ruined.tmlalso registered for Biome Forest
+template WoodHouse2_Ruined.tmlalso registered for Biome ForestHills
+template WoodHouse2_Ruined.tmlalso registered for Biome Swampland
+template WoodHouse2_Ruined.tmlalso registered for Biome Extreme Hills
+template WoodHouse2_Ruined.tmlalso registered for Biome Taiga
+template WoodHouse2_Ruined.tmlalso registered for Biome Rainforest
+Successfully loaded template WoodHouse2_Ruined.tml with weight 1.
+template WoodHouse3_Intact.tmlalso registered for Biome Hell
+template WoodHouse3_Intact.tmlalso registered for Biome Extreme Hills Edge
+template WoodHouse3_Intact.tmlalso registered for Biome JungleHills
+template WoodHouse3_Intact.tmlalso registered for Biome Jungle
+template WoodHouse3_Intact.tmlalso registered for Biome TaigaHills
+template WoodHouse3_Intact.tmlalso registered for Biome Forest
+template WoodHouse3_Intact.tmlalso registered for Biome ForestHills
+template WoodHouse3_Intact.tmlalso registered for Biome Swampland
+template WoodHouse3_Intact.tmlalso registered for Biome Extreme Hills
+template WoodHouse3_Intact.tmlalso registered for Biome Taiga
+template WoodHouse3_Intact.tmlalso registered for Biome Rainforest
+Successfully loaded template WoodHouse3_Intact.tml with weight 1.
+template WoodHouse3_Ruined.tmlalso registered for Biome Hell
+template WoodHouse3_Ruined.tmlalso registered for Biome Extreme Hills Edge
+template WoodHouse3_Ruined.tmlalso registered for Biome JungleHills
+template WoodHouse3_Ruined.tmlalso registered for Biome Jungle
+template WoodHouse3_Ruined.tmlalso registered for Biome TaigaHills
+template WoodHouse3_Ruined.tmlalso registered for Biome Forest
+template WoodHouse3_Ruined.tmlalso registered for Biome ForestHills
+template WoodHouse3_Ruined.tmlalso registered for Biome Swampland
+template WoodHouse3_Ruined.tmlalso registered for Biome Extreme Hills
+template WoodHouse3_Ruined.tmlalso registered for Biome Taiga
+template WoodHouse3_Ruined.tmlalso registered for Biome Rainforest
+Successfully loaded template WoodHouse3_Ruined.tml with weight 1.
+template WoodHouse_Intact.tmlalso registered for Biome Hell
+template WoodHouse_Intact.tmlalso registered for Biome Extreme Hills Edge
+template WoodHouse_Intact.tmlalso registered for Biome JungleHills
+template WoodHouse_Intact.tmlalso registered for Biome Jungle
+template WoodHouse_Intact.tmlalso registered for Biome TaigaHills
+template WoodHouse_Intact.tmlalso registered for Biome Forest
+template WoodHouse_Intact.tmlalso registered for Biome ForestHills
+template WoodHouse_Intact.tmlalso registered for Biome Swampland
+template WoodHouse_Intact.tmlalso registered for Biome Extreme Hills
+template WoodHouse_Intact.tmlalso registered for Biome Taiga
+template WoodHouse_Intact.tmlalso registered for Biome Rainforest
+Successfully loaded template WoodHouse_Intact.tml with weight 3.
+template WoodHouse_Ruined.tmlalso registered for Biome Hell
+template WoodHouse_Ruined.tmlalso registered for Biome Extreme Hills Edge
+template WoodHouse_Ruined.tmlalso registered for Biome JungleHills
+template WoodHouse_Ruined.tmlalso registered for Biome Jungle
+template WoodHouse_Ruined.tmlalso registered for Biome TaigaHills
+template WoodHouse_Ruined.tmlalso registered for Biome Forest
+template WoodHouse_Ruined.tmlalso registered for Biome ForestHills
+template WoodHouse_Ruined.tmlalso registered for Biome Swampland
+template WoodHouse_Ruined.tmlalso registered for Biome Extreme Hills
+template WoodHouse_Ruined.tmlalso registered for Biome Taiga
+template WoodHouse_Ruined.tmlalso registered for Biome Rainforest
+Successfully loaded template WoodHouse_Ruined.tml with weight 1.
+Loaded Plains ruins templates, biomeID 1
+
+Loading the desert ruins templates...
+template code_148_692_6_littlepyramid.tmlalso registered for Biome DesertHills
+Successfully loaded template code_148_692_6_littlepyramid.tml with weight 15.
+template DesertBarrow.tmlalso registered for Biome DesertHills
+Successfully loaded template DesertBarrow.tml with weight 5.
+template DesertPanthenon.tmlalso registered for Biome DesertHills
+Successfully loaded template DesertPanthenon.tml with weight 1.
+template DesertPanthenonRuined.tmlalso registered for Biome DesertHills
+Successfully loaded template DesertPanthenonRuined.tml with weight 1.
+template DesertSmallFort_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template DesertSmallFort_Intact.tml with weight 2.
+template DesertSmallFort_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template DesertSmallFort_Ruined.tml with weight 1.
+template DiamondWell.tmlalso registered for Biome DesertHills
+Successfully loaded template DiamondWell.tml with weight 4.
+template LargeSandstoneHouse.tmlalso registered for Biome DesertHills
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+template Monolith.tmlalso registered for Biome DesertHills
+Successfully loaded template Monolith.tml with weight 1.
+template Obelisk.tmlalso registered for Biome DesertHills
+Successfully loaded template Obelisk.tml with weight 3.
+template Pyramid.tmlalso registered for Biome DesertHills
+Successfully loaded template Pyramid.tml with weight 4.
+template RuinedDryFountain.tmlalso registered for Biome DesertHills
+Successfully loaded template RuinedDryFountain.tml with weight 10.
+template RuinedSmallFountainDiagonal.tmlalso registered for Biome DesertHills
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+template SandCastle.tmlalso registered for Biome DesertHills
+Successfully loaded template SandCastle.tml with weight 8.
+template SandSpire.tmlalso registered for Biome DesertHills
+Successfully loaded template SandSpire.tml with weight 2.
+template SandstoneBld1_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld1_Intact.tml with weight 1.
+template SandstoneBld1_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld1_Ruined.tml with weight 100.
+template SandstoneBld2_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld2_Intact.tml with weight 1.
+template SandstoneBld2_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld2_Ruined.tml with weight 100.
+template SandstoneBld3_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld3_Intact.tml with weight 1.
+template SandstoneBld3_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld3_Ruined.tml with weight 100.
+template SandstoneBld4_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld4_Intact.tml with weight 1.
+template SandstoneBld4_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld4_Ruined.tml with weight 100.
+template SandstoneBld5_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld5_Intact.tml with weight 1.
+template SandstoneBld5_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld5_Ruined.tml with weight 1.
+template SandstoneBld6_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld6_Intact.tml with weight 1.
+template SandstoneBld6_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneBld6_Ruined.tml with weight 1.
+template SandstoneHouse.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneHouse.tml with weight 3.
+template SandstoneHouse1_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneHouse1_Intact.tml with weight 1.
+template SandstoneHouse1_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneHouse1_Ruined.tml with weight 100.
+template SandstoneHouse2_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneHouse2_Intact.tml with weight 1.
+template SandstoneHouse2_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneHouse2_Ruined.tml with weight 1.
+template SandstoneHouse3_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneHouse3_Intact.tml with weight 2.
+template SandstoneHouse3_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneHouse3_Ruined.tml with weight 1.
+template SandstonePool_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstonePool_Intact.tml with weight 1.
+template SandstonePool_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstonePool_Ruined.tml with weight 1.
+template SandstoneRuin.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneRuin.tml with weight 1.
+template SandstoneStructure1_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneStructure1_Intact.tml with weight 2.
+template SandstoneStructure1_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneStructure1_Ruined.tml with weight 1.
+template SandstoneStructure2_Intact.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneStructure2_Intact.tml with weight 2.
+template SandstoneStructure2_Ruined.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneStructure2_Ruined.tml with weight 1.
+template SandstoneVanillaL-Modified.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneVanillaL-Modified.tml with weight 1.
+template SandstoneVanillaS-Modified.tmlalso registered for Biome DesertHills
+Successfully loaded template SandstoneVanillaS-Modified.tml with weight 1.
+template SandTrap.tmlalso registered for Biome DesertHills
+Successfully loaded template SandTrap.tml with weight 8.
+template Ziggurat.tmlalso registered for Biome DesertHills
+Successfully loaded template Ziggurat.tml with weight 2.
+Loaded Desert ruins templates, biomeID 2
+
+Loading the extreme hills ruins templates...
+Loaded Extreme Hills ruins templates, biomeID 3
+
+Loading the forest ruins templates...
+template SpiralTree.tmlalso registered for Biome ForestHills
+template SpiralTree.tmlalso registered for Biome Rainforest
+Successfully loaded template SpiralTree.tml with weight 20.
+template TreeDungeon.tmlalso registered for Biome ForestHills
+template TreeDungeon.tmlalso registered for Biome Rainforest
+Successfully loaded template TreeDungeon.tml with weight 5.
+template TreeHouse.tmlalso registered for Biome ForestHills
+template TreeHouse.tmlalso registered for Biome Rainforest
+Successfully loaded template TreeHouse.tml with weight 20.
+Loaded Forest ruins templates, biomeID 4
+
+Loading the taiga ruins templates...
+Loaded Taiga ruins templates, biomeID 5
+
+Loading the swampland ruins templates...
+Loaded Swampland ruins templates, biomeID 6
+
+Loading the river ruins templates...
+template BridgePilings-lg2.tmlalso registered for Biome Beach
+Successfully loaded template BridgePilings-lg2.tml with weight 5.
+template BridgePilings-sm2.tmlalso registered for Biome Beach
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+template BridgePilings-small.tmlalso registered for Biome Beach
+Successfully loaded template BridgePilings-small.tml with weight 2.
+template BridgePilings-small_river.tmlalso registered for Biome Beach
+Successfully loaded template BridgePilings-small_river.tml with weight 1.
+template BridgePilings2_river.tmlalso registered for Biome Beach
+Successfully loaded template BridgePilings2_river.tml with weight 1.
+Loaded River ruins templates, biomeID 7
+
+Loading the hell ruins templates...
+Loaded Hell ruins templates, biomeID 8
+
+Loading the sky ruins templates...
+Successfully loaded template EnderStatueHigh.tml with weight 20.
+Successfully loaded template EnderStatueLow.tml with weight 20.
+Successfully loaded template EnderStatueMedHigh.tml with weight 20.
+Successfully loaded template EnderStatueMedLow.tml with weight 20.
+Loaded Sky ruins templates, biomeID 9
+
+Loading the frozenocean ruins templates...
+Successfully loaded template TP_FishingShack.tml with weight 10.
+Loaded FrozenOcean ruins templates, biomeID 10
+
+Loading the frozenriver ruins templates...
+Loaded FrozenRiver ruins templates, biomeID 11
+
+Loading the ice plains ruins templates...
+Loaded Ice Plains ruins templates, biomeID 12
+
+Loading the ice mountains ruins templates...
+Loaded Ice Mountains ruins templates, biomeID 13
+
+Loading the mushroomisland ruins templates...
+Loaded MushroomIsland ruins templates, biomeID 14
+
+Loading the mushroomislandshore ruins templates...
+Loaded MushroomIslandShore ruins templates, biomeID 15
+
+Loading the beach ruins templates...
+Successfully loaded template LightHouse.tml with weight 2.
+Loaded Beach ruins templates, biomeID 16
+
+Loading the deserthills ruins templates...
+Loaded DesertHills ruins templates, biomeID 17
+
+Loading the foresthills ruins templates...
+Loaded ForestHills ruins templates, biomeID 18
+
+Loading the taigahills ruins templates...
+Loaded TaigaHills ruins templates, biomeID 19
+
+Loading the extreme hills edge ruins templates...
+Loaded Extreme Hills Edge ruins templates, biomeID 20
+
+Loading the jungle ruins templates...
+template JungleSpiderBurrow.tmlalso registered for Biome JungleHills
+Successfully loaded template JungleSpiderBurrow.tml with weight 34.
+template JungleThroneWood.tmlalso registered for Biome JungleHills
+Successfully loaded template JungleThroneWood.tml with weight 1.
+template JungleTreePlatform.tmlalso registered for Biome JungleHills
+Successfully loaded template JungleTreePlatform.tml with weight 3.
+template JungleTreePlatform_edit.tmlalso registered for Biome JungleHills
+Successfully loaded template JungleTreePlatform_edit.tml with weight 15.
+template MoaiHead.tmlalso registered for Biome JungleHills
+Successfully loaded template MoaiHead.tml with weight 1.
+template PyramidStone.tmlalso registered for Biome JungleHills
+Successfully loaded template PyramidStone.tml with weight 1.
+Loaded Jungle ruins templates, biomeID 21
+
+Loading the junglehills ruins templates...
+Loaded JungleHills ruins templates, biomeID 22
+
+Loading the mountains ruins templates...
+Loaded Mountains ruins templates, biomeID 26
+
+Loading the oceancliffs ruins templates...
+Loaded OceanCliffs ruins templates, biomeID 27
+
+Loading the tropical ocean ruins templates...
+Loaded Tropical Ocean ruins templates, biomeID 60
+
+Loading the tropics ruins templates...
+Loaded Tropics ruins templates, biomeID 61
+
+Loading the rainforest plains ruins templates...
+Loaded Rainforest Plains ruins templates, biomeID 62
+
+Loading the rainforest hills ruins templates...
+Loaded Rainforest Hills ruins templates, biomeID 63
+
+Loading the rainforest mountains ruins templates...
+Loaded Rainforest Mountains ruins templates, biomeID 64
+
+Loading the tropical river ruins templates...
+Loaded Tropical River ruins templates, biomeID 65
+
+Loading the tropical beach ruins templates...
+Loaded Tropical Beach ruins templates, biomeID 66
+
+Loading the tropical lake ruins templates...
+Loaded Tropical Lake ruins templates, biomeID 67
+
+Loading the island rainforest mountains ruins templates...
+Loaded Island Rainforest Mountains ruins templates, biomeID 68
+
+Loading the savannah ruins templates...
+Loaded Savannah ruins templates, biomeID 80
+
+Loading the outlands ruins templates...
+Loaded Outlands ruins templates, biomeID 81
+
+Loading the rainforest ruins templates...
+Loaded Rainforest ruins templates, biomeID 82
+
+Loading the mountains ruins templates...
+Loaded Mountains ruins templates, biomeID 83
+
+Loading the rainforest hills ruins templates...
+Loaded Rainforest Hills ruins templates, biomeID 85
+
+Loading the river ruins templates...
+template BridgePilings-lg2.tmlalso registered for Biome Beach
+template BridgePilings-lg2.tmlalso registered for Biome River
+Successfully loaded template BridgePilings-lg2.tml with weight 5.
+template BridgePilings-sm2.tmlalso registered for Biome Beach
+template BridgePilings-sm2.tmlalso registered for Biome River
+Successfully loaded template BridgePilings-sm2.tml with weight 5.
+template BridgePilings-small.tmlalso registered for Biome Beach
+template BridgePilings-small.tmlalso registered for Biome River
+Successfully loaded template BridgePilings-small.tml with weight 2.
+template BridgePilings-small_river.tmlalso registered for Biome Beach
+template BridgePilings-small_river.tmlalso registered for Biome River
+Successfully loaded template BridgePilings-small_river.tml with weight 1.
+template BridgePilings2_river.tmlalso registered for Biome Beach
+template BridgePilings2_river.tmlalso registered for Biome River
+Successfully loaded template BridgePilings2_river.tml with weight 1.
+Loaded River ruins templates, biomeID 86
+
+Loading the outlands mountains ruins templates...
+Loaded Outlands Mountains ruins templates, biomeID 87
+
+Loading the outlands river ruins templates...
+Loaded Outlands River ruins templates, biomeID 88
+
+Loading the arid savannah ruins templates...
+Loaded Arid Savannah ruins templates, biomeID 89
+
+Loading the upendi ruins templates...
+Loaded Upendi ruins templates, biomeID 90
+
+Loading the candycraft ruins templates...
+Loaded CandyCraft ruins templates, biomeID 129
+
+Loading the candycraft dungeon ruins templates...
+Loaded CandyCraft Dungeon ruins templates, biomeID 130
+
+Loading the desert ruins templates...
+template code_148_692_6_littlepyramid.tmlalso registered for Biome DesertHills
+template code_148_692_6_littlepyramid.tmlalso registered for Biome Desert
+Successfully loaded template code_148_692_6_littlepyramid.tml with weight 15.
+template DesertBarrow.tmlalso registered for Biome DesertHills
+template DesertBarrow.tmlalso registered for Biome Desert
+Successfully loaded template DesertBarrow.tml with weight 5.
+template DesertPanthenon.tmlalso registered for Biome DesertHills
+template DesertPanthenon.tmlalso registered for Biome Desert
+Successfully loaded template DesertPanthenon.tml with weight 1.
+template DesertPanthenonRuined.tmlalso registered for Biome DesertHills
+template DesertPanthenonRuined.tmlalso registered for Biome Desert
+Successfully loaded template DesertPanthenonRuined.tml with weight 1.
+template DesertSmallFort_Intact.tmlalso registered for Biome DesertHills
+template DesertSmallFort_Intact.tmlalso registered for Biome Desert
+Successfully loaded template DesertSmallFort_Intact.tml with weight 2.
+template DesertSmallFort_Ruined.tmlalso registered for Biome DesertHills
+template DesertSmallFort_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template DesertSmallFort_Ruined.tml with weight 1.
+template DiamondWell.tmlalso registered for Biome DesertHills
+template DiamondWell.tmlalso registered for Biome Desert
+Successfully loaded template DiamondWell.tml with weight 4.
+template LargeSandstoneHouse.tmlalso registered for Biome DesertHills
+template LargeSandstoneHouse.tmlalso registered for Biome Desert
+Successfully loaded template LargeSandstoneHouse.tml with weight 1.
+template Monolith.tmlalso registered for Biome DesertHills
+template Monolith.tmlalso registered for Biome Desert
+Successfully loaded template Monolith.tml with weight 1.
+template Obelisk.tmlalso registered for Biome DesertHills
+template Obelisk.tmlalso registered for Biome Desert
+Successfully loaded template Obelisk.tml with weight 3.
+template Pyramid.tmlalso registered for Biome DesertHills
+template Pyramid.tmlalso registered for Biome Desert
+Successfully loaded template Pyramid.tml with weight 4.
+template RuinedDryFountain.tmlalso registered for Biome DesertHills
+template RuinedDryFountain.tmlalso registered for Biome Desert
+Successfully loaded template RuinedDryFountain.tml with weight 10.
+template RuinedSmallFountainDiagonal.tmlalso registered for Biome DesertHills
+template RuinedSmallFountainDiagonal.tmlalso registered for Biome Desert
+Successfully loaded template RuinedSmallFountainDiagonal.tml with weight 2.
+template SandCastle.tmlalso registered for Biome DesertHills
+template SandCastle.tmlalso registered for Biome Desert
+Successfully loaded template SandCastle.tml with weight 8.
+template SandSpire.tmlalso registered for Biome DesertHills
+template SandSpire.tmlalso registered for Biome Desert
+Successfully loaded template SandSpire.tml with weight 2.
+template SandstoneBld1_Intact.tmlalso registered for Biome DesertHills
+template SandstoneBld1_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld1_Intact.tml with weight 1.
+template SandstoneBld1_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneBld1_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld1_Ruined.tml with weight 100.
+template SandstoneBld2_Intact.tmlalso registered for Biome DesertHills
+template SandstoneBld2_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld2_Intact.tml with weight 1.
+template SandstoneBld2_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneBld2_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld2_Ruined.tml with weight 100.
+template SandstoneBld3_Intact.tmlalso registered for Biome DesertHills
+template SandstoneBld3_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld3_Intact.tml with weight 1.
+template SandstoneBld3_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneBld3_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld3_Ruined.tml with weight 100.
+template SandstoneBld4_Intact.tmlalso registered for Biome DesertHills
+template SandstoneBld4_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld4_Intact.tml with weight 1.
+template SandstoneBld4_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneBld4_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld4_Ruined.tml with weight 100.
+template SandstoneBld5_Intact.tmlalso registered for Biome DesertHills
+template SandstoneBld5_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld5_Intact.tml with weight 1.
+template SandstoneBld5_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneBld5_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld5_Ruined.tml with weight 1.
+template SandstoneBld6_Intact.tmlalso registered for Biome DesertHills
+template SandstoneBld6_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld6_Intact.tml with weight 1.
+template SandstoneBld6_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneBld6_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneBld6_Ruined.tml with weight 1.
+template SandstoneHouse.tmlalso registered for Biome DesertHills
+template SandstoneHouse.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneHouse.tml with weight 3.
+template SandstoneHouse1_Intact.tmlalso registered for Biome DesertHills
+template SandstoneHouse1_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneHouse1_Intact.tml with weight 1.
+template SandstoneHouse1_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneHouse1_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneHouse1_Ruined.tml with weight 100.
+template SandstoneHouse2_Intact.tmlalso registered for Biome DesertHills
+template SandstoneHouse2_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneHouse2_Intact.tml with weight 1.
+template SandstoneHouse2_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneHouse2_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneHouse2_Ruined.tml with weight 1.
+template SandstoneHouse3_Intact.tmlalso registered for Biome DesertHills
+template SandstoneHouse3_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneHouse3_Intact.tml with weight 2.
+template SandstoneHouse3_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneHouse3_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneHouse3_Ruined.tml with weight 1.
+template SandstonePool_Intact.tmlalso registered for Biome DesertHills
+template SandstonePool_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstonePool_Intact.tml with weight 1.
+template SandstonePool_Ruined.tmlalso registered for Biome DesertHills
+template SandstonePool_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstonePool_Ruined.tml with weight 1.
+template SandstoneRuin.tmlalso registered for Biome DesertHills
+template SandstoneRuin.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneRuin.tml with weight 1.
+template SandstoneStructure1_Intact.tmlalso registered for Biome DesertHills
+template SandstoneStructure1_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneStructure1_Intact.tml with weight 2.
+template SandstoneStructure1_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneStructure1_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneStructure1_Ruined.tml with weight 1.
+template SandstoneStructure2_Intact.tmlalso registered for Biome DesertHills
+template SandstoneStructure2_Intact.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneStructure2_Intact.tml with weight 2.
+template SandstoneStructure2_Ruined.tmlalso registered for Biome DesertHills
+template SandstoneStructure2_Ruined.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneStructure2_Ruined.tml with weight 1.
+template SandstoneVanillaL-Modified.tmlalso registered for Biome DesertHills
+template SandstoneVanillaL-Modified.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneVanillaL-Modified.tml with weight 1.
+template SandstoneVanillaS-Modified.tmlalso registered for Biome DesertHills
+template SandstoneVanillaS-Modified.tmlalso registered for Biome Desert
+Successfully loaded template SandstoneVanillaS-Modified.tml with weight 1.
+template SandTrap.tmlalso registered for Biome DesertHills
+template SandTrap.tmlalso registered for Biome Desert
+Successfully loaded template SandTrap.tml with weight 8.
+template Ziggurat.tmlalso registered for Biome DesertHills
+template Ziggurat.tmlalso registered for Biome Desert
+Successfully loaded template Ziggurat.tml with weight 2.
+Loaded Desert ruins templates, biomeID 200
+
+Loading the wyvernbiome ruins templates...
+Loaded WyvernBiome ruins templates, biomeID 207
+
+Loading excluded list from: G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\world123\MoCWyvernLair
+No exclusions found for this world.
+
+Loading options from: G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\world123\MoCWyvernLair
+Ruins is now loading the rotation mappings file G:\_Persona\Sean\Documents\mc_n_frends\versions\1.6.4_mod\server\.\mods\resources\ruins\rotation_mappings.txt
+Now reading mappings for [53;67;108;109;114;128;134;135;136]
+Saving Mapping DIR[1] FROM[0] TO[2]
+Saving Mapping DIR[1] FROM[1] TO[3]
+Saving Mapping DIR[1] FROM[2] TO[1]
+Saving Mapping DIR[1] FROM[3] TO[0]
+Saving Mapping DIR[1] FROM[4] TO[6]
+Saving Mapping DIR[1] FROM[5] TO[7]
+Saving Mapping DIR[1] FROM[6] TO[5]
+Saving Mapping DIR[1] FROM[7] TO[4]
+Saving Mapping DIR[2] FROM[0] TO[1]
+Saving Mapping DIR[2] FROM[1] TO[0]
+Saving Mapping DIR[2] FROM[2] TO[3]
+Saving Mapping DIR[2] FROM[3] TO[2]
+Saving Mapping DIR[2] FROM[4] TO[5]
+Saving Mapping DIR[2] FROM[5] TO[4]
+Saving Mapping DIR[2] FROM[6] TO[7]
+Saving Mapping DIR[2] FROM[7] TO[6]
+Saving Mapping DIR[3] FROM[0] TO[3]
+Saving Mapping DIR[3] FROM[1] TO[2]
+Saving Mapping DIR[3] FROM[2] TO[0]
+Saving Mapping DIR[3] FROM[3] TO[1]
+Saving Mapping DIR[3] FROM[4] TO[7]
+Saving Mapping DIR[3] FROM[5] TO[6]
+Saving Mapping DIR[3] FROM[6] TO[4]
+Saving Mapping DIR[3] FROM[7] TO[5]
+Now reading mappings for [tile.tripWireSource]
+Mapped Block name [tile.tripWireSource] to ID [131]
+Saving Mapping DIR[1] FROM[1] TO[2]
+Saving Mapping DIR[1] FROM[2] TO[3]
+Saving Mapping DIR[1] FROM[3] TO[0]
+Saving Mapping DIR[1] FROM[0] TO[1]
+Saving Mapping DIR[2] FROM[0] TO[2]
+Saving Mapping DIR[2] FROM[1] TO[3]
+Saving Mapping DIR[2] FROM[2] TO[0]
+Saving Mapping DIR[2] FROM[3] TO[1]
+Saving Mapping DIR[3] FROM[0] TO[3]
+Saving Mapping DIR[3] FROM[2] TO[1]
+Saving Mapping DIR[3] FROM[3] TO[2]
+Saving Mapping DIR[3] FROM[1] TO[0]
+Now reading mappings for [29;34]
+Saving Mapping DIR[1] FROM[0] TO[0]
+Saving Mapping DIR[1] FROM[1] TO[1]
+Saving Mapping DIR[1] FROM[4] TO[2]
+Saving Mapping DIR[1] FROM[5] TO[3]
+Saving Mapping DIR[1] FROM[2] TO[5]
+Saving Mapping DIR[1] FROM[3] TO[4]
+Saving Mapping DIR[1] FROM[8] TO[8]
+Saving Mapping DIR[1] FROM[9] TO[9]
+Saving Mapping DIR[1] FROM[12] TO[10]
+Saving Mapping DIR[1] FROM[13] TO[11]
+Saving Mapping DIR[1] FROM[10] TO[13]
+Saving Mapping DIR[1] FROM[11] TO[12]
+Saving Mapping DIR[2] FROM[0] TO[0]
+Saving Mapping DIR[2] FROM[1] TO[1]
+Saving Mapping DIR[2] FROM[4] TO[5]
+Saving Mapping DIR[2] FROM[5] TO[4]
+Saving Mapping DIR[2] FROM[2] TO[3]
+Saving Mapping DIR[2] FROM[3] TO[2]
+Saving Mapping DIR[2] FROM[8] TO[8]
+Saving Mapping DIR[2] FROM[9] TO[9]
+Saving Mapping DIR[2] FROM[12] TO[13]
+Saving Mapping DIR[2] FROM[13] TO[12]
+Saving Mapping DIR[2] FROM[10] TO[11]
+Saving Mapping DIR[2] FROM[11] TO[10]
+Saving Mapping DIR[3] FROM[0] TO[0]
+Saving Mapping DIR[3] FROM[1] TO[1]
+Saving Mapping DIR[3] FROM[4] TO[3]
+Saving Mapping DIR[3] FROM[5] TO[2]
+Saving Mapping DIR[3] FROM[2] TO[4]
+Saving Mapping DIR[3] FROM[3] TO[5]
+Saving Mapping DIR[3] FROM[8] TO[8]
+Saving Mapping DIR[3] FROM[9] TO[9]
+Saving Mapping DIR[3] FROM[12] TO[11]
+Saving Mapping DIR[3] FROM[13] TO[10]
+Saving Mapping DIR[3] FROM[10] TO[12]
+Saving Mapping DIR[3] FROM[11] TO[13]
+Now reading mappings for [99;100]
+Saving Mapping DIR[1] FROM[0] TO[0]
+Saving Mapping DIR[1] FROM[1] TO[3]
+Saving Mapping DIR[1] FROM[2] TO[6]
+Saving Mapping DIR[1] FROM[3] TO[9]
+Saving Mapping DIR[1] FROM[4] TO[2]
+Saving Mapping DIR[1] FROM[5] TO[5]
+Saving Mapping DIR[1] FROM[6] TO[8]
+Saving Mapping DIR[1] FROM[7] TO[1]
+Saving Mapping DIR[1] FROM[8] TO[4]
+Saving Mapping DIR[1] FROM[9] TO[7]
+Saving Mapping DIR[1] FROM[10] TO[10]
+Saving Mapping DIR[2] FROM[0] TO[0]
+Saving Mapping DIR[2] FROM[1] TO[9]
+Saving Mapping DIR[2] FROM[2] TO[8]
+Saving Mapping DIR[2] FROM[3] TO[7]
+Saving Mapping DIR[2] FROM[4] TO[6]
+Saving Mapping DIR[2] FROM[5] TO[5]
+Saving Mapping DIR[2] FROM[6] TO[4]
+Saving Mapping DIR[2] FROM[7] TO[3]
+Saving Mapping DIR[2] FROM[8] TO[2]
+Saving Mapping DIR[2] FROM[9] TO[1]
+Saving Mapping DIR[2] FROM[10] TO[10]
+Saving Mapping DIR[3] FROM[0] TO[0]
+Saving Mapping DIR[3] FROM[1] TO[7]
+Saving Mapping DIR[3] FROM[2] TO[4]
+Saving Mapping DIR[3] FROM[3] TO[1]
+Saving Mapping DIR[3] FROM[4] TO[8]
+Saving Mapping DIR[3] FROM[5] TO[5]
+Saving Mapping DIR[3] FROM[6] TO[2]
+Saving Mapping DIR[3] FROM[7] TO[9]
+Saving Mapping DIR[3] FROM[8] TO[6]
+Saving Mapping DIR[3] FROM[9] TO[3]
+Saving Mapping DIR[3] FROM[10] TO[10]
+Ruins mod loaded.
