@@ -63,4 +63,5 @@
 284 63 -116 297 109 -103 TowerEasy.tml
 297 63 -102 310 67 -89 AncientFountain.tml
 309 68 262 313 75 266 SmallWell.tml
+341 63 383 347 79 389 VanillaVillageWell-p.tml
 353 69 146 360 75 151 VanillaVillageHut-p.tml
